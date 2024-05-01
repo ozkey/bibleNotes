@@ -1,0 +1,193 @@
+---
+sidebar_position: 5
+slug: /bible/Matthew/Matthew_5
+title: Matthew 5
+hide_table_of_contents: true
+---
+
+# Matthew 
+
+## Chapter 5
+
+
+Christ's sermon upon the mount.  The eight beatitudes.
+
+
+
+
+      <BibleText verse={1}>And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him.</BibleText>
+
+
+      <BibleText verse={2}>And opening his mouth he taught them, saying:</BibleText>
+
+
+      <BibleText verse={3}>Blessed are the poor in spirit: for theirs is the kingdom of heaven.</BibleText>
+
+:::note
+Note 1: The poor in spirit...That is, the humble; and they whose spirit is not set upon riches. 
+:::
+
+      <BibleText verse={4}>Blessed are the meek: for they shall possess the land.</BibleText>
+
+
+      <BibleText verse={5}>Blessed are they that mourn: for they shall be comforted.</BibleText>
+
+
+      <BibleText verse={6}>Blessed are they that hunger and thirst after justice: for they shall have their fill.</BibleText>
+
+
+      <BibleText verse={7}>Blessed are the merciful: for they shall obtain mercy.</BibleText>
+
+
+      <BibleText verse={8}>Blessed are the clean of heart: they shall see God.</BibleText>
+
+
+      <BibleText verse={9}>Blessed are the peacemakers: for they shall be called the children of God.</BibleText>
+
+
+      <BibleText verse={10}>Blessed are they that suffer persecution for justice' sake: for theirs is the kingdom of heaven.</BibleText>
+
+
+      <BibleText verse={11}>Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake:</BibleText>
+
+
+      <BibleText verse={12}>Be glad and rejoice for your reward is very great in heaven. For so they persecuted the prophets that were before you.</BibleText>
+
+
+      <BibleText verse={13}>You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing anymore but to be cast out, and to be trodden on by men.</BibleText>
+
+
+      <BibleText verse={14}>You are the light of the world. A city seated on a mountain cannot be hid.</BibleText>
+
+
+      <BibleText verse={15}>Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house.</BibleText>
+
+
+      <BibleText verse={16}>So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.</BibleText>
+
+
+      <BibleText verse={17}>Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfil.</BibleText>
+
+:::note
+Note 1: To fulfil...By accomplishing all the figures and prophecies; and perfecting all that was imperfect. 
+:::
+
+      <BibleText verse={18}>For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled.</BibleText>
+
+:::note
+Note 1: Amen...That is, assuredly of a truth...This Hebrew word, amen, is here retained by the example and authority of all the four Evangelists. It is used by our Lord as a strong asseveration, and affirmation of the truth. 
+:::
+
+      <BibleText verse={19}>He therefore that shall break one of these least commandments, and shall so teach men shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.</BibleText>
+
+
+      <BibleText verse={20}>For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven.</BibleText>
+
+:::note
+Note 1: The scribes and Pharisees...The scribes were the doctors of the law of Moses: the Pharisees were a precise set of men, making profession of a more exact observance of the law: and upon that account greatly esteemed among the people. 
+:::
+
+      <BibleText verse={21}>You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill, shall be in danger of the judgment.</BibleText>
+
+:::note
+Note 1: Shall be in danger of the judgment...That is, shall deserve to be punished by that lesser tribunal among the Jews, called the Judgment, which took cognizance of such crimes. 
+:::
+
+      <BibleText verse={22}>But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou fool, shall be in danger of hell fire.</BibleText>
+
+:::note
+Note 1: Raca...A word expressing great indignation or contempt. Shall be in 
+Note 2: danger of the council...That is, shall deserve to be punished by the highest court of judicature, called the Council, or Sanhedrim, consisting of seventy-two persons, where the highest causes were tried 
+Note 3: and judged, which was at Jerusalem. Thou fool...This was then looked upon as a heinous injury, when uttered with contempt, spite, or malice: and therefore is here so severely condemned. Shall be in danger of hell 
+Note 4: fire...literally, according to the Greek, shall deserve to be cast into the Gehenna of fire. Which words our Saviour made use of to express the fire and punishments of hell. 
+:::
+
+      <BibleText verse={23}>If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath anything against thee;</BibleText>
+
+
+      <BibleText verse={24}>Leave there thy offering before the altar, and go first to be reconciled to thy brother, and then coming thou shalt offer thy gift.</BibleText>
+
+
+      <BibleText verse={25}>Be at agreement with thy adversary betimes, whilst thou art in the way with him: lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.</BibleText>
+
+
+      <BibleText verse={26}>Amen I say to thee, thou shalt not go out from thence till thou repay the last farthing.</BibleText>
+
+
+      <BibleText verse={27}>You have heard that it was said to them of old: Thou shalt not commit adultery.</BibleText>
+
+
+      <BibleText verse={28}>But I say to you, that whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.</BibleText>
+
+
+      <BibleText verse={29}>And if thy right eye scandalize thee, pluck it out and cast it from thee. For it is expedient for thee that one of thy members should perish, rather than thy whole body be cast into hell.</BibleText>
+
+:::note
+Note 1: Scandalize thee...That is, if it be a stumblingblock, or occasion of sin to thee. By which we are taught to fly the immediate occasions of sin, though they be as dear to us, or as necessary as a hand or an eye. 
+:::
+
+      <BibleText verse={30}>And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy members should perish, rather than that thy whole body go into hell.</BibleText>
+
+
+      <BibleText verse={31}>And it hath been said, Whosoever shall put away his wife, let him give her a bill of divorce.</BibleText>
+
+
+      <BibleText verse={32}>But I say to you, that whosoever shall put away his wife, excepting the cause of fornication, maketh her to commit adultery: and he that shall marry her that is put away, committeth adultery.</BibleText>
+
+
+      <BibleText verse={33}>Again you have heard that it was said to them of old, thou shalt not forswear thyself: but thou shalt perform thy oaths to the Lord.</BibleText>
+
+
+      <BibleText verse={34}>But I say to you not to swear at all, neither by heaven for it is the throne of God:</BibleText>
+
+:::note
+Note 1: Not to swear at all...It is not forbid to swear in truth, justice and judgment; to the honour of God, or our own or neighbour's just defence: but only to swear rashly, or profanely, in common discourse, and without necessity. 
+:::
+
+      <BibleText verse={35}>Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great king:</BibleText>
+
+
+      <BibleText verse={36}>Neither shalt thou swear by thy head, because thou canst not make one hair white or black.</BibleText>
+
+
+      <BibleText verse={37}>But let your speech be yea, yea: no, no: and that which is over and above these, is of evil.</BibleText>
+
+
+      <BibleText verse={38}>You have heard that it hath been said: An eye for an eye, and a tooth for a tooth.</BibleText>
+
+
+      <BibleText verse={39}>But I say to you not to resist evil: but if one strike thee on thy right cheek, turn to him also the other:</BibleText>
+
+:::note
+Note 1: Not to resist evil, etc...What is here commanded, is a Christian patience under injuries and affronts, and to be willing even to suffer still more, rather than to indulge the desire of revenge: but what is further added does not strictly oblige according to the letter, for neither did Christ nor St. Paul turn the other cheek. St. John 18., and Acts 23. 
+:::
+
+      <BibleText verse={40}>And if a man will contend with thee in judgment, and take away thy coat, let go thy cloak also unto him.</BibleText>
+
+
+      <BibleText verse={41}>And whosoever will force thee one mile, go with him other two.</BibleText>
+
+
+      <BibleText verse={42}>Give to him that asketh of thee, and from him that would borrow of thee turn not away.</BibleText>
+
+
+      <BibleText verse={43}>You have heard that it hath been said, Thou shalt love thy neighbour, and hate thy enemy.</BibleText>
+
+
+      <BibleText verse={44}>But I say to you, Love your enemies: do good to them that hate you: and pray for them that persecute and calumniate you:</BibleText>
+
+
+      <BibleText verse={45}>That you may be the children of your Father who is in heaven, who maketh his sun to rise upon the good, and bad, and raineth upon the just and the unjust.</BibleText>
+
+
+      <BibleText verse={46}>For if you love them that love you, what reward shall you have? do not even the publicans this?</BibleText>
+
+:::note
+Note 1: The publicans...These were the gatherers of the public taxes: a set of men, odious and infamous among the Jews, for their extortions and injustice. 
+:::
+
+      <BibleText verse={47}>And if you salute your brethren only, what do you more? do not also the heathens this?</BibleText>
+
+
+      <BibleText verse={48}>Be you therefore perfect, as also your heavenly Father is perfect.</BibleText>
+

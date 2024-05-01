@@ -1,0 +1,58 @@
+---
+sidebar_position: 4
+slug: /bible/Micheas/Micheas_4
+title: Micheas 4
+hide_table_of_contents: true
+---
+
+# Micheas 
+
+## Chapter 4
+
+
+The glory of the church of Christ, by the conversion of the Gentiles. The Jews shall be carried captives to Babylon, and be delivered again.
+
+
+
+
+      <BibleText verse={1}>And it shall come to pass in the last days, that the mountain of the house of the Lord shall be prepared in the top of the mountains, and high above the hills: and people shall flow to it.</BibleText>
+
+
+      <BibleText verse={2}>And many nations shall come in haste, and say: Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob: and he will teach us of his ways, and we will walk in his paths: for the law shall go forth out of Sion, and the word of the Lord out of Jerusalem.</BibleText>
+
+
+      <BibleText verse={3}>And he shall judge among many people, and rebuke strong nations afar off: and they shall beat their swords into ploughshares, and their spears into spades: nation shall not take sword against nation: neither shall they learn war anymore.</BibleText>
+
+:::note
+Note 1: Neither shall they learn, etc...The law of Christ is a law of peace; and all his true subjects, as much as lies in them love and keep peace with all the world. 
+:::
+
+      <BibleText verse={4}>And every man shall sit under his vine, and under his fig tree, and there shall be none to make them afraid, for the mouth of the Lord of hosts hath spoken.</BibleText>
+
+
+      <BibleText verse={5}>For all people will walk every one in the name of his god: but we will walk in the name of the Lord, our God, for ever and ever.</BibleText>
+
+
+      <BibleText verse={6}>In that day, saith the Lord, I will gather up her that halteth: and her that I had cast out, I will gather up: and her whom I had afflicted.</BibleText>
+
+
+      <BibleText verse={7}>And I will make her that halted, a remnant: and her that had been afflicted, a mighty nation: and the Lord will reign over them in Mount Sion, from this time now and forever.</BibleText>
+
+
+      <BibleText verse={8}>And thou, O cloudy tower of the flock, of the daughter of Sion, unto thee shall it come: yea the first power shall come, the kingdom to the daughter of Jerusalem.</BibleText>
+
+
+      <BibleText verse={9}>Now, why art thou drawn together with grief? Hast thou no king in thee, or is thy counselor perished, because sorrow hath taken thee as a woman in labour.</BibleText>
+
+
+      <BibleText verse={10}>Be in pain and labour, O daughter of Sion, as a woman that bringeth forth: for now shalt thou go out of the city, and shalt dwell in the country, and shalt come even to Babylon, there thou shalt be delivered: there the Lord will redeem thee out of the hand of thy enemies.</BibleText>
+
+
+      <BibleText verse={11}>And now many nations are gathered together against thee, and they say: Let her be stoned: and let our eye look upon Sion.</BibleText>
+
+
+      <BibleText verse={12}>But they have not known the thoughts of the Lord, and have not understood his counsel: because he hath gathered them together as the hay of the floor.</BibleText>
+
+
+      <BibleText verse={13}>Arise, and tread, O daughter of Sion: for I will make thy horn iron, and thy hoofs I will make brass: and thou shalt beat in pieces many peoples, and shalt immolate the spoils of them to the Lord, and their strength to the Lord of the whole earth.</BibleText>
+

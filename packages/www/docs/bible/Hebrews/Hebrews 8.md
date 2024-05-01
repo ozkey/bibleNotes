@@ -1,0 +1,70 @@
+---
+sidebar_position: 8
+slug: /bible/Hebrews/Hebrews_8
+title: Hebrews 8
+hide_table_of_contents: true
+---
+
+# Hebrews 
+
+## Chapter 8
+
+
+More of the excellence of the priesthood of Christ and of the New Testament.
+
+
+
+
+      <BibleText verse={1}>Now of the things which we have spoken, this is the sum: We have such an high priest who is set on the right hand of the throne of majesty in the heavens,</BibleText>
+
+
+      <BibleText verse={2}>A minister of the holies and of the true tabernacle, which the Lord hath pitched, and not man.</BibleText>
+
+:::note
+Note 1: The holies...That is, the sanctuary. 
+:::
+
+      <BibleText verse={3}>For every high priest is appointed to offer gifts and sacrifices: wherefore it is necessary that he also should have some thing to offer.</BibleText>
+
+
+      <BibleText verse={4}>If then he were on earth, he would not be a priest: seeing that there would be others to offer gifts according to the law.</BibleText>
+
+:::note
+Note 1: If then he were on earth, etc...That is, if he were not of a higher condition than the Levitical order of earthly priests, and had not another kind of sacrifice to offer, he should be excluded by them from the priesthood, and its functions, which by the law were appropriated to their tribe. 
+:::
+
+      <BibleText verse={5}>Who serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount.</BibleText>
+
+:::note
+Note 1: Who serve unto, etc...The priesthood of the law and its functions were a kind of an example and shadow of what is done by Christ in his church militant and triumphant, of which the tabernacle was a pattern. 
+:::
+
+      <BibleText verse={6}>But now he hath obtained a better ministry, by how much also he is a mediator of a better testament which is established on better promises.</BibleText>
+
+
+      <BibleText verse={7}>For if that former had been faultless, there should not indeed a place have been sought for a second.</BibleText>
+
+
+      <BibleText verse={8}>For, finding fault with them, he saith: Behold the days shall come, saith the Lord: and I will perfect, unto the house of Israel and unto the house of Juda, a new testament:</BibleText>
+
+
+      <BibleText verse={9}>Not according to the testament which I made to their fathers, on the day when I took them by the hand to lead them out of the land of Egypt: because they continued not in my testament: and I regarded them not, saith the Lord.</BibleText>
+
+
+      <BibleText verse={10}>For this is the testament which I will make to the house of Israel after those days, saith the Lord: I will give my laws into their mind: and in their heart will I write them. And I will be their God: and they shall be my people.</BibleText>
+
+
+      <BibleText verse={11}>And they shall not teach every man his neighbour and every man his brother, saying: Know the Lord. For all shall know me, from the least to the greatest of them.</BibleText>
+
+:::note
+Note 1: They shall not teach, etc...So great shall be light and grace of the new testament, that it shall not be necessary to inculcate to the faithful the belief and knowledge of the true God, for they shall all know him. 
+:::
+
+      <BibleText verse={12}>Because I will be merciful to their iniquities: and their sins I will remember no more.</BibleText>
+
+
+      <BibleText verse={13}>Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end.</BibleText>
+
+:::note
+Note 1: A new...Supply 'covenant'. 
+:::

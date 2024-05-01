@@ -1,0 +1,82 @@
+---
+sidebar_position: 19
+slug: /bible/Apocalypse/Apocalypse_19
+title: Apocalypse 19
+hide_table_of_contents: true
+---
+
+# Apocalypse 
+
+## Chapter 19
+
+
+The saints glorify God for his judgments on the great harlot.  Christ's victory over the beast and the kings of the earth.
+
+
+
+
+      <BibleText verse={1}>After these things, I heard as it were the voice of much people in heaven, saying: Alleluia. Salvation and glory and power is to our God.</BibleText>
+
+
+      <BibleText verse={2}>For true and just are his judgments, who hath judged the great harlot which corrupted the earth with her fornication and hath revenged the blood of his servants, at her hands.</BibleText>
+
+
+      <BibleText verse={3}>And again they said: Alleluia. And her smoke ascendeth for ever and ever.</BibleText>
+
+
+      <BibleText verse={4}>And the four and twenty ancients and the four living creatures fell down and adored God that sitteth upon the throne, saying: Amen. Alleluia.</BibleText>
+
+
+      <BibleText verse={5}>And a voice came out from the throne, saying: Give praise to our God, all ye his servants: and you that fear him, little and great.</BibleText>
+
+
+      <BibleText verse={6}>And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of great thunders, saying: Alleluia: for the Lord our God, the Almighty, hath reigned.</BibleText>
+
+
+      <BibleText verse={7}>Let us be glad and rejoice and give glory to him. For the marriage of the Lamb is come: and his wife hath prepared herself.</BibleText>
+
+
+      <BibleText verse={8}>And it is granted to her that she should clothe herself with fine linen, glittering and white. For the fine linen are the justifications of saints.</BibleText>
+
+
+      <BibleText verse={9}>And he said to me: Write: Blessed are they that are called to the marriage supper of the Lamb. And he saith to me: These words of God are true.</BibleText>
+
+
+      <BibleText verse={10}>And I fell down before his feet, to adore him. And he saith to me: See thou do it not. I am thy fellow servant and of thy brethren who have the testimony of Jesus. Adore God. For the testimony of Jesus is the spirit of prophecy.</BibleText>
+
+:::note
+Note 1: I fell down before, etc...St. Augustine (lib. 20, contra Faust, c. 21) is of opinion, that this angel appeared in so glorious a manner, that St. John took him to be God; and therefore would have given him divine honour had not the angel stopped him, by telling him he was but his fellow servant. St. Gregory (Hom. 8, in Evang.) rather thinks that the veneration offered by St. John, was not divine honour, or indeed any other than what might lawfully be given; but was nevertheless refused by the angel, in consideration of the dignity to which our human nature had been raised, by the incarnation of the Son of God, and the dignity of St. John, an apostle, prophet, and martyr. 
+:::
+
+      <BibleText verse={11}>And I saw heaven opened: and behold a white horse. And he that sat upon him was called faithful and true: and with justice doth he judge and fight.</BibleText>
+
+
+      <BibleText verse={12}>And his eyes were as a flame of fire: and on his head were many diadems. And he had a name written, which no man knoweth but himself.</BibleText>
+
+
+      <BibleText verse={13}>And he was clothed with a garment sprinkled with blood. And his name is called: THE WORD OF GOD.</BibleText>
+
+
+      <BibleText verse={14}>And the armies that are in heaven followed him on white horses, clothed in fine linen, white and clean.</BibleText>
+
+
+      <BibleText verse={15}>And out of his mouth proceedeth a sharp two-edged sword, that with it he may strike the nations. And he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness of the wrath of God the Almighty.</BibleText>
+
+
+      <BibleText verse={16}>And he hath on his garment and on his thigh written: KING OF KINGS AND LORD OF LORDS.</BibleText>
+
+
+      <BibleText verse={17}>And I saw an angel standing in the sun: and he cried with a loud voice, saying to all the birds that did fly through the midst of heaven: Come, gather yourselves together to the great supper of God:</BibleText>
+
+
+      <BibleText verse={18}>That you may eat the flesh of kings and the flesh of tribunes and the flesh of mighty men and the flesh of horses and of them that sit on them: and the flesh of all freemen and bondmen and of little and of great.</BibleText>
+
+
+      <BibleText verse={19}>And I saw the beast and the kings of the earth and their armies, gathered together to make war with him that sat upon the horse and with his army.</BibleText>
+
+
+      <BibleText verse={20}>And the beast was taken, and with him the false prophet who wrought signs before him, wherewith he seduced them who received the character of the beast and who adored his image. These two were cast alive into the pool of fire burning with brimstone.</BibleText>
+
+
+      <BibleText verse={21}>And the rest were slain by the sword of him that sitteth upon the horse, which proceedeth out of his mouth: and all the birds were filled with their flesh.</BibleText>
+

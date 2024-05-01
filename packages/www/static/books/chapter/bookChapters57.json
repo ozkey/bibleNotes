@@ -1,0 +1,29 @@
+{
+    "booknumber": 57,
+    "shortname": "Philippians",
+    "contentsname": "Epistle of St. Paul to the Philippians",
+    "bookname": "THE EPISTLE OF ST. PAUL TO THE PHILIPPIANS",
+    "bookdesc": "The Philippians were the first among the Macedonians converted to the faith.  They had a great veneration for St. Paul and supplied his wants when he was a prisoner in Rome, sending to him by Epaphroditus, by whom he sent this Epistle; in which he recommends charity, unity and humility and warns them against false teachers, whom he calls dogs and enemies of the cross of Christ.  He also returns thanks for their benefactions.  It was written about twenty-nine years after our Lord's Ascension.",
+    "chapters": [
+        {
+            "chaptername": "Philippians Chapter 1",
+            "chapterdesc": "The apostle's affection for the Philippians.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Philippians Chapter 2",
+            "chapterdesc": "He recommends them to unity and humility, and to work out their salvation with fear and trembling.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Philippians Chapter 3",
+            "chapterdesc": "He warneth them against false teachers.  He counts all other things loss, that he may gain Christ.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Philippians Chapter 4",
+            "chapterdesc": "He exhorts them to perseverance in all good and acknowledges their charitable contributions to him.",
+            "chapternumber": 4
+        }
+    ]
+}

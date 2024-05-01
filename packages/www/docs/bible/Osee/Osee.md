@@ -1,0 +1,11 @@
+---
+sidebar_position: 33
+---
+  
+# Osee
+ 
+## Prophecy of Osee
+ 
+<BibleChapterIntro book={33}>
+OSEE, or Hosea, whose name signifies A saviour, was the first in the order of time among those who are commonly called lesser prophets, because their prophecies are short.  He prophesied in the kingdom of Israel, that is, of the ten tribes, about the same time that Isaias prophesied in the kingdom of Juda.
+</BibleChapterIntro>

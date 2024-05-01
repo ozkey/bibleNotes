@@ -1,0 +1,58 @@
+---
+sidebar_position: 84
+slug: /bible/Psalms/Psalms_84
+title: Psalms 84
+hide_table_of_contents: true
+---
+
+# Psalms 
+
+## Chapter 84
+
+
+Benedixisti, Domine. The coming of Christ, to bring peace and salvation to man.
+
+
+
+
+      <BibleText verse={1}>Unto the end, for the sons of Core, a psalm.</BibleText>
+
+
+      <BibleText verse={2}>Lord, thou hast blessed thy land: thou hast turned away the captivity of Jacob.</BibleText>
+
+
+      <BibleText verse={3}>Thou hast forgiven the iniquity of thy people: thou hast covered all their sins.</BibleText>
+
+
+      <BibleText verse={4}>Thou hast mitigated all thy anger: thou hast turned away from the wrath of thy indignation.</BibleText>
+
+
+      <BibleText verse={5}>Convert us, O God our saviour: and turn off thy anger from us.</BibleText>
+
+
+      <BibleText verse={6}>Wilt thou be angry with us for ever: or wilt thou extend thy wrath from generation to generation?</BibleText>
+
+
+      <BibleText verse={7}>Thou wilt turn, O God, and bring us to life: and thy people shall rejoice in thee.</BibleText>
+
+
+      <BibleText verse={8}>Shew us, O Lord, thy mercy; and grant us thy salvation.</BibleText>
+
+
+      <BibleText verse={9}>I will hear what the Lord God will speak in me: for he will speak peace unto his people: And unto his saints: and unto them that are converted to the heart.</BibleText>
+
+
+      <BibleText verse={10}>Surely his salvation is near to them that fear him : that glory may dwell in our land.</BibleText>
+
+
+      <BibleText verse={11}>Mercy and truth have met each other: justice and peace have kissed.</BibleText>
+
+
+      <BibleText verse={12}>Truth is sprung out of the earth: and justice hath looked down from heaven.</BibleText>
+
+
+      <BibleText verse={13}>For the Lord will give goodness: and our earth shall yield her fruit.</BibleText>
+
+
+      <BibleText verse={14}>Justice shall walk before him: and ,shall set his steps in the way.</BibleText>
+

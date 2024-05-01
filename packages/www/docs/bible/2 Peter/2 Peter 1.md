@@ -1,0 +1,82 @@
+---
+sidebar_position: 1
+slug: /bible/2_Peter/2_Peter_1
+title: 2 Peter 1
+hide_table_of_contents: true
+---
+
+# 2 Peter 
+
+## Chapter 1
+
+
+He exhorts them to join all other virtues with their faith, in order to secure their salvation.
+
+
+
+
+      <BibleText verse={1}>Simon Peter, servant and apostle of Jesus Christ: to them that have obtained equal faith with us in the justice of our God and Saviour Jesus Christ.</BibleText>
+
+
+      <BibleText verse={2}>Grace to you and peace be accomplished in the knowledge of God and of Christ Jesus our Lord.</BibleText>
+
+
+      <BibleText verse={3}>As all things of his divine power which appertain to life and godliness are given us through the knowledge of him who hath called us by his own proper glory and virtue.</BibleText>
+
+
+      <BibleText verse={4}>By whom he hath given us most great and precious promises: that by these you may be made partakers of the divine nature: flying the corruption of that concupiscence which is in the world.</BibleText>
+
+
+      <BibleText verse={5}>And you, employing all care, minister in your faith, virtue: And in virtue, knowledge:</BibleText>
+
+
+      <BibleText verse={6}>And in knowledge, abstinence: and in abstinence, patience: and in patience, godliness:</BibleText>
+
+
+      <BibleText verse={7}>And in godliness, love of brotherhood: and in love of brotherhood, charity.</BibleText>
+
+
+      <BibleText verse={8}>For if these things be with you and abound, they will make you to be neither empty nor unfruitful in the knowledge of our Lord Jesus Christ.</BibleText>
+
+
+      <BibleText verse={9}>For he that hath not these things with him is blind and groping, having forgotten that he was purged from his old sins.</BibleText>
+
+
+      <BibleText verse={10}>Wherefore, brethren, labour the more, that by good works you may make sure your calling and election. For doing these things, you shall not sin at any time.</BibleText>
+
+
+      <BibleText verse={11}>For so an entrance shall be ministered to you abundantly into the ever-lasting kingdom of our Lord and Saviour Jesus Christ.</BibleText>
+
+
+      <BibleText verse={12}>For which cause, I will begin to put you always in remembrance of these things: though indeed you know them and are confirmed in the present truth.</BibleText>
+
+
+      <BibleText verse={13}>But I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance.</BibleText>
+
+
+      <BibleText verse={14}>Being assured that the laying away of this my tabernacle is at hand, according as our Lord Jesus Christ also hath signified to me.</BibleText>
+
+
+      <BibleText verse={15}>And I will endeavour that you frequently have after my decease whereby you may keep a memory of these things.</BibleText>
+
+
+      <BibleText verse={16}>For we have not by following artificial fables made known to you the power and presence of our Lord Jesus Christ: but we were eyewitnesses of his greatness.</BibleText>
+
+
+      <BibleText verse={17}>For he received from God the Father honour and glory, this voice coming down to him from the excellent glory: This is my beloved Son, in whom I am well pleased. Hear ye him.</BibleText>
+
+
+      <BibleText verse={18}>And this voice, we heard brought from heaven, when we were with him in the holy mount.</BibleText>
+
+
+      <BibleText verse={19}>And we have the more firm prophetical word: whereunto you do well to attend, as to a light that shineth in a dark place, until the day dawn and the day star arise in your hearts.</BibleText>
+
+
+      <BibleText verse={20}>Understanding this first: That no prophecy of scripture is made by private interpretation.</BibleText>
+
+:::note
+Note 1: No prophecy of scripture is made by private interpretation...This shows plainly that the scriptures are not to be expounded by any one's private judgment or private spirit, because every part of the holy scriptures were written by men inspired by the Holy Ghost, and declared as such by the Church; therefore they are not to be interpreted but by the Spirit of God, which he hath left, and promised to remain with his Church to guide her in all truth to the end of the world. Some may tell us, that many of our divines interpret the scriptures: they may do so, but they do it always with a submission to the judgment of the Church, and not otherwise. 
+:::
+
+      <BibleText verse={21}>For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost.</BibleText>
+

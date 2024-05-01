@@ -1,0 +1,21 @@
+{
+  "name": "bibleNotes",
+  "version": "1.0.0",
+  "description": "",
+  "author": "ozkey",
+  "dependencies": {
+    "prettier": "^3.2.4"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "cd ./packages/www/ && npm run start",
+    "build": "cd ./packages/www/ && npm run build",
+    "publish": "npm run build && npm run publish:copy",
+    "publish:copy": "cd ./packages/www/ && shx cp -r build ../../docs"
+  },
+  "devDependencies": {
+    "shx": "^0.4.0"
+  }
+}

@@ -1,0 +1,85 @@
+---
+sidebar_position: 7
+slug: /bible/Micheas/Micheas_7
+title: Micheas 7
+hide_table_of_contents: true
+---
+
+# Micheas 
+
+## Chapter 7
+
+
+The prophet laments, that notwithstanding all his preaching, the generality are still corrupt in their manners:  therefore their desolation is at hand:  but they shall be restored again and prosper; and all mankind shall be redeemed by Christ.
+
+
+
+
+      <BibleText verse={1}>Woe is me, for I am become as one that gleaneth in autumn the grapes of the vintage: there is no cluster to eat, my soul desired the first ripe figs.</BibleText>
+
+
+      <BibleText verse={2}>The holy man is perished out of the earth, and there is none upright among men: they all lie in wait for blood, every one hunteth his brother to death.</BibleText>
+
+
+      <BibleText verse={3}>The evil of their hands they call good: the prince requireth, and the judge is for giving: and the great man hath uttered the desire of his soul, and they have troubled it.</BibleText>
+
+
+      <BibleText verse={4}>He that is best among them, is as a brier, and he that is righteous, as the thorn of the hedge. The day of thy inspection, thy visitation cometh: now shall be their destruction.</BibleText>
+
+
+      <BibleText verse={5}>Believe not a friend, and trust not in a prince: keep the doors of thy mouth from her that sleepeth in thy bosom.</BibleText>
+
+
+      <BibleText verse={6}>For the son dishonoureth the father, and the daughter riseth up against her mother, the daughter in law against her mother in law: and a man's enemies are they of his own household.</BibleText>
+
+
+      <BibleText verse={7}>But I will look towards the Lord, I will wait for God, my saviour: my God will hear me.</BibleText>
+
+
+      <BibleText verse={8}>Rejoice not, thou my enemy, over me, because I am fallen: I shall arise, when I sit in darkness, the Lord is my light.</BibleText>
+
+
+      <BibleText verse={9}>I will bear the wrath of the Lord, because I have sinned against him: until he judge my cause, and execute judgement for me: he will bring me forth into the light, I shall behold his justice.</BibleText>
+
+
+      <BibleText verse={10}>And my enemy shall behold, and she shall be covered with shame, who saith to me: Where is the Lord thy God? my eyes shall look down upon her: now shall she be trodden under foot as the mire of the streets.</BibleText>
+
+:::note
+Note 1: She shall be covered, etc...Viz., Babylon my enemy. 
+:::
+
+      <BibleText verse={11}>The day shall come, that thy walls may be built up: in that day shall the law be far removed.</BibleText>
+
+:::note
+Note 1: The law...Viz., of thy enemies, who have tyrannized over thee. 
+:::
+
+      <BibleText verse={12}>In that day they shall come even from Assyria to thee, and to the fortified cities: and from the fortified cities even to the river, and from sea to sea, and from mountain to mountain.</BibleText>
+
+
+      <BibleText verse={13}>And the land shall be made desolate because of the inhabitants thereof, and for the fruit of their devices.</BibleText>
+
+:::note
+Note 1: The land, etc...Viz., of Babylon. 
+:::
+
+      <BibleText verse={14}>Feed thy people with thy rod, the flock of thy inheritance, them that dwell alone in the forest, in the midst of Carmel: they shall feed in Basan and Galaad, according to the days of old.</BibleText>
+
+
+      <BibleText verse={15}>According to the days of thy coming out of the land of Egypt, I will shew him wonders.</BibleText>
+
+
+      <BibleText verse={16}>The nations shall see, and shall be confounded at all their strength: they shall put the hand upon the mouth, their ears shall be deaf.</BibleText>
+
+
+      <BibleText verse={17}>They shall lick the dust like serpents, as the creeping things of the earth, they shall be disturbed in their houses: they shall dread the Lord, our God, and shall fear thee.</BibleText>
+
+
+      <BibleText verse={18}>Who is a God like to thee, who takest away iniquity, and passest by the sin of the remnant of thy inheritance? he will send his fury in no more, because he delighteth in mercy.</BibleText>
+
+
+      <BibleText verse={19}>He will turn again, and have mercy on us: he will put away our iniquities: and he will cast all our sins into the bottom of the sea.</BibleText>
+
+
+      <BibleText verse={20}>Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old.</BibleText>
+

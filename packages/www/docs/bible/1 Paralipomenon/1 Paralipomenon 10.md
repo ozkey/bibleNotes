@@ -1,0 +1,58 @@
+---
+sidebar_position: 10
+slug: /bible/1_Paralipomenon/1_Paralipomenon_10
+title: 1 Paralipomenon 10
+hide_table_of_contents: true
+---
+
+# 1 Paralipomenon 
+
+## Chapter 10
+
+
+Saul is slain for his sins:  he is buried by the men of Jabes.
+
+
+
+
+      <BibleText verse={1}>Now the Philistines fought against Israel, and the men of Israel fled from before the Philistines, and fell down wounded in mount Gelboe.</BibleText>
+
+
+      <BibleText verse={2}>And the Philistines drew near pursuing after Saul, and his sons, and they killed Jonathan, and Abinadab, and Melchisua the sons of Saul.</BibleText>
+
+
+      <BibleText verse={3}>And the battle grew hard against Saul and the archers reached him, and wounded him with arrows.</BibleText>
+
+
+      <BibleText verse={4}>And Saul said to his armourbearer: Draw thy sword, and kill me: lest these uncircumcised come, and mock me. But his armourbearer would not, for he was struck with fear: so Saul took his sword, and fell upon it.</BibleText>
+
+
+      <BibleText verse={5}>And when his armourbearer saw it, to wit, that Saul was dead, he also fell upon his sword and died.</BibleText>
+
+
+      <BibleText verse={6}>So Saul died, and his three sons, and all his house fell together.</BibleText>
+
+
+      <BibleText verse={7}>And when the men of Israel, that dwelt in the plains, saw this, they fled: and Saul and his sons being dead, they forsook their cities, and were scattered up and down: and the Philistines came, and dwelt in them.</BibleText>
+
+
+      <BibleText verse={8}>And the next day the Philistines taking away the spoils of them that were slain, found Saul and his sons lying on mount Gelboe.</BibleText>
+
+
+      <BibleText verse={9}>And when they had stripped him, and out off his head, and taken away his armour, they sent it into their land, to be carried about, and shewn in the temples of the idols and to the people.</BibleText>
+
+
+      <BibleText verse={10}>And his armour they dedicated in the temple of their god, and his head they fastened up in the temple of Dagon.</BibleText>
+
+
+      <BibleText verse={11}>And when the men of Jabes Galaad had heard this, to wit, all that the Philistines had done to Saul,</BibleText>
+
+
+      <BibleText verse={12}>All the valiant men of them arose, and took the bodies of Saul and of his sons, and brought them to Jabes, and buried their bones under the oak that was in Jabes, and they fasted seven days.</BibleText>
+
+
+      <BibleText verse={13}>So Saul died for his iniquities, because he transgressed the commandment of the Lord, which he had commanded, and kept it not: and moreover consulted also a witch,</BibleText>
+
+
+      <BibleText verse={14}>And trusted not in the Lord: therefore he slew him, and transferred his kingdom to David the son of Isai.</BibleText>
+

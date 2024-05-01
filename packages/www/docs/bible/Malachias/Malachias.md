@@ -1,0 +1,11 @@
+---
+sidebar_position: 44
+---
+  
+# Malachias
+ 
+## Prophecy of Malachias
+ 
+<BibleChapterIntro book={44}>
+MALACHIAS, whose name signifies The Angel of the Lord, was contemporary with NEHEMIAS, and by some is believed to have been the same person as ESDRAS.  He was the last of the prophets, in the order of time, and flourished about four hundred years before Christ.  He foretells the coming of Christ; the reprobation of the Jews and their sacrifices; and the calling of the Gentiles, who shall offer up to God in every place an acceptable sacrifice.
+</BibleChapterIntro>

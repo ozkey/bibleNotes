@@ -1,0 +1,112 @@
+---
+sidebar_position: 7
+slug: /bible/Daniel/Daniel_7
+title: Daniel 7
+hide_table_of_contents: true
+---
+
+# Daniel 
+
+## Chapter 7
+
+
+Daniel's vision of the four beasts, signifying four kingdoms:  of God sitting on his throne:  and of the opposite kingdoms of Christ and Antichrist.
+
+
+
+
+      <BibleText verse={1}>In the first year of Baltasar, king of Babylon, Daniel saw a dream: and the vision of his head was upon his bed: and writing the dream, he comprehended it in a few words: and relating the sum of it in short, he said:</BibleText>
+
+
+      <BibleText verse={2}>I saw in my vision by night, and behold the four winds of the heavens strove upon the great sea.</BibleText>
+
+
+      <BibleText verse={3}>And four great beasts, different one from another, came up out of the sea.</BibleText>
+
+:::note
+Note 1: Four great beasts...Viz., the Chaldean, Persian, Grecian, and Roman empires. But some rather choose to understand the fourth beast of the successors of Alexander the Great, more especially of them that reigned in Asia and Syria. 
+:::
+
+      <BibleText verse={4}>The first was like a lioness, and had the wings of an eagle: I beheld till her wings were plucked off, and she was lifted up from the earth, and stood upon her feet as a man, and the heart of a man was given to her.</BibleText>
+
+
+      <BibleText verse={5}>And behold another beast, like a bear, stood up on one side: and there were three rows in the mouth thereof, and in the teeth thereof, and thus they said to it: Arise, devour much flesh.</BibleText>
+
+
+      <BibleText verse={6}>After this I beheld, and lo, another like a leopard, and it had upon it four wings, as of a fowl, and the beast had four heads, and power was given to it.</BibleText>
+
+
+      <BibleText verse={7}>After this I beheld in the vision of the night, and lo, a fourth beast, terrible and wonderful, and exceeding strong, it had great iron teeth, eating and breaking in pieces, and treading down the rest with his feet: and it was unlike to the other beasts which I had seen before it, and had ten horns.</BibleText>
+
+:::note
+Note 1: Ten horns...That is, ten kingdoms, (as Apoc. 17.12,) among which the empire of the fourth beast shall be parcelled. Or ten kings of the number of the successors of Alexander; as figures of such as shall be about the time of Antichrist. 
+:::
+
+      <BibleText verse={8}>I considered the horns, and behold another little horn sprung out of the midst of them: and three of the first horns were plucked up at the presence thereof: and behold eyes like the eyes of a man were in this horn, and a mouth speaking great things.</BibleText>
+
+:::note
+Note 1: Another little horn...This is commonly understood of Antichrist. It may also be applied to that great persecutor Antiochus Epiphanes, as a figure of Antichrist. 
+:::
+
+      <BibleText verse={9}>I beheld till thrones were placed, and the ancient of days sat: his garment was white as snow, and the hair of his head like clean wool: his throne like flames of fire: the wheels of it like a burning fire.</BibleText>
+
+
+      <BibleText verse={10}>A swift stream of fire issued forth from before him: thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him: the judgment sat, and the books were opened.</BibleText>
+
+
+      <BibleText verse={11}>I beheld, because of the voice of the great words which that horn spoke: and I saw that the beast was slain, and the body thereof was destroyed, and given to the fire to be burnt:</BibleText>
+
+
+      <BibleText verse={12}>And that the power of the other beasts was taken away: and that times of life were appointed them for a time, and a time.</BibleText>
+
+
+      <BibleText verse={13}>I beheld, therefore, in the vision of the night, and lo, one like the Son of man came with the clouds of heaven, and he came even to the ancient of days: and they presented him before him.</BibleText>
+
+
+      <BibleText verse={14}>And he gave him power, and glory, and a kingdom: and all peoples, tribes, and tongues shall serve him: his power is an everlasting power that shall not be taken away: and his kingdom that shall not be destroyed.</BibleText>
+
+
+      <BibleText verse={15}>My spirit trembled; I, Daniel, was affrighted at these things, and the visions of my head troubled me.</BibleText>
+
+
+      <BibleText verse={16}>I went near to one of them that stood by, and asked the truth of him concerning all these things, and he told me the interpretation of the words, and instructed me:</BibleText>
+
+
+      <BibleText verse={17}>These four great beasts, are four kingdoms, which shall arise out of the earth.</BibleText>
+
+
+      <BibleText verse={18}>But the saints of the most high God shall take the kingdom: and they shall possess the kingdom for ever and ever.</BibleText>
+
+
+      <BibleText verse={19}>After this I would diligently learn concerning the fourth beast, which was very different from all, and exceeding terrible: his teeth and claws were of iron: he devoured and broke in pieces, and the rest he stamped upon with his feet:</BibleText>
+
+
+      <BibleText verse={20}>And concerning the ten horns that he had on his head: and concerning the other that came up, before which three horns fell: and of that horn that had eyes, and a mouth speaking great things, and was greater than the rest.</BibleText>
+
+
+      <BibleText verse={21}>I beheld, and lo, that horn made war against the saints, and prevailed over them,</BibleText>
+
+
+      <BibleText verse={22}>Till the ancient of days came and gave judgment to the saints of the most High, and the time came, and the saints obtained the kingdom.</BibleText>
+
+
+      <BibleText verse={23}>And thus he said: The fourth beast shall be the fourth kingdom upon earth, which shall be greater than all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.</BibleText>
+
+
+      <BibleText verse={24}>And the ten horns of the same kingdom, shall be ten kings: and another shall rise up after them, and he shall be mightier than the former, and he shall bring down three kings.</BibleText>
+
+
+      <BibleText verse={25}>And he shall speak words against the High One, and shall crush the saints of the most High: and he shall think himself able to change times and laws, and they shall be delivered into his hand until a time, and times, and half a time.</BibleText>
+
+:::note
+Note 1: A time, and times, and half a time...That is, three years and a half; which is supposed to be the length of the duration of the persecution of Antichrist. 
+:::
+
+      <BibleText verse={26}>And a judgment shall sit, that his power may be taken away, and be broken in pieces, and perish even to the end.</BibleText>
+
+
+      <BibleText verse={27}>And that the kingdom, and power, and the greatness of the kingdom, under the whole heaven, may be given to the people of the saints of the most High: whose kingdom is an everlasting kingdom, and all kings shall serve him, and shall obey him.</BibleText>
+
+
+      <BibleText verse={28}>Hitherto is the end of the word. I, Daniel, was much troubled with my thoughts, and my countenance was changed in me: but I kept the word in my heart.</BibleText>
+

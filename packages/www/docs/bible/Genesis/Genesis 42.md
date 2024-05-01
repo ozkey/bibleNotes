@@ -1,0 +1,139 @@
+---
+sidebar_position: 42
+slug: /bible/Genesis/Genesis_42
+title: Genesis 42
+hide_table_of_contents: true
+---
+
+# Genesis 
+
+## Chapter 42
+
+
+Jacob sendeth his ten sons to buy corn in Egypt.  Their treatment by Joseph.
+
+
+
+
+      <BibleText verse={1}>And Jacob hearing that food was sold in Egypt, said to his sons: Why are ye careless?</BibleText>
+
+
+      <BibleText verse={2}>I have heard that wheat is sold in Egypt: Go ye down, and buy us necessaries, that we may live, and not be consumed with want.</BibleText>
+
+
+      <BibleText verse={3}>So the ten brethren of Joseph went down, to buy corn in Egypt:</BibleText>
+
+
+      <BibleText verse={4}>Whilst Benjamin was kept at home by Jacob, who said to his brethren: Lest perhaps he take any harm in the journey.</BibleText>
+
+
+      <BibleText verse={5}>And they entered into the land of Egypt with others that went to buy. For the famine was in the land of Chanaan.</BibleText>
+
+
+      <BibleText verse={6}>And Joseph was governor in the land of Egypt, and corn was sold by his direction to the people. And when his brethren had bowed down to him,</BibleText>
+
+
+      <BibleText verse={7}>And he knew them, he spoke as it were to strangers, somewhat roughly, asking them: Whence came you? They answered: From the land of Chanaan, to buy necessaries of life.</BibleText>
+
+
+      <BibleText verse={8}>And though he knew his brethren, he was not known by them.</BibleText>
+
+
+      <BibleText verse={9}>And remembering the dreams, which formerly he had dreamed, he said to them: You are spies. You are come to view the weaker parts of the land.</BibleText>
+
+:::note
+Note 1: You are spies...This he said by way of examining them, to see what they would answer. 
+:::
+
+      <BibleText verse={10}>But they said: It is not so, my lord; but thy servants are come to buy food.</BibleText>
+
+
+      <BibleText verse={11}>We are all the sons of one man: we are come as peaceable men, neither do thy servants go about any evil.</BibleText>
+
+
+      <BibleText verse={12}>And he answered them: It is otherwise: you are come to consider the unfenced parts of this land.</BibleText>
+
+
+      <BibleText verse={13}>But they said: We thy servants are twelve brethren, the sons of one man in the land of Chanaan: the youngest is with our father, the other is not living.</BibleText>
+
+
+      <BibleText verse={14}>He saith, This is it that I said: You are spies.</BibleText>
+
+
+      <BibleText verse={15}>I shall now presently try what you are: by the health of Pharao, you shall not depart hence, until your youngest brother come.</BibleText>
+
+
+      <BibleText verse={16}>Send one of you to fetch him: and you shall be in prison, till what you have said be proved, whether it be true or false: or else by the health of Pharao you are spies.</BibleText>
+
+:::note
+Note 1: Or else by the health of Pharao you are spies...That is, if these things you say be proved false, you are to be held for spies for your lying, and shall be treated as such. Joseph dealt in this manner with his brethren, to bring them by the means of affliction to a sense of their former sin, and a sincere repentance for it. 
+:::
+
+      <BibleText verse={17}>So he put them in prison three days.</BibleText>
+
+
+      <BibleText verse={18}>And the third day he brought them out of prison, and said: Do as I have said, and you shall live: for I fear God.</BibleText>
+
+
+      <BibleText verse={19}>If you be peaceable men, let one of your brethren be bound in prison: and go ye your ways, and carry the corn that you have bought, unto your houses.</BibleText>
+
+
+      <BibleText verse={20}>And bring your youngest brother to me, that I may find your words to be true, and you may not die. They did as he had said.</BibleText>
+
+
+      <BibleText verse={21}>And they talked one to another: We deserve to suffer these things, because we have sinned against our brother, seeing the anguish of his soul, when he besought us, and we would not hear: therefore is this affliction come upon us.</BibleText>
+
+
+      <BibleText verse={22}>And Ruben, one of them, said: Did not I say to you: Do not sin against the boy; and you would not hear me? Behold his blood is required.</BibleText>
+
+
+      <BibleText verse={23}>And they knew not that Joseph understood, because he spoke to them by an interpreter.</BibleText>
+
+
+      <BibleText verse={24}>And he turned himself away a little while, and wept: and returning, he spoke to them.</BibleText>
+
+
+      <BibleText verse={25}>And taking Simeon, and binding him in their presence, he commanded his servants to fill their sacks with wheat, and to put every man's money again in their sacks, and to give them besides provisions for the way: and they did so.</BibleText>
+
+
+      <BibleText verse={26}>But they having loaded their asses with the corn went their way.</BibleText>
+
+
+      <BibleText verse={27}>And one of them opening his sack, to give his beast provender in the inn, saw the money in the sack's mouth,</BibleText>
+
+
+      <BibleText verse={28}>And said to his brethren: My money is given me again; behold it is in the sack. And they were astonished, and troubled, and said to one another: What is this that God hath done unto us?</BibleText>
+
+
+      <BibleText verse={29}>And they came to Jacob their father in the land of Chanaan, and they told him all things that had befallen them, saying:</BibleText>
+
+
+      <BibleText verse={30}>The lord of the land spoke roughly to us, and took us to be spies of the country.</BibleText>
+
+
+      <BibleText verse={31}>And we answered him: We are peaceable men, and we mean no plot.</BibleText>
+
+
+      <BibleText verse={32}>We are twelve brethren born of one father: one is not living, the youngest is with our father in the land of Chanaan.</BibleText>
+
+
+      <BibleText verse={33}>And he said to us: Hereby shall I know that you are peaceable men: Leave one of your brethren with me, and take ye necessary provision for your houses, and go your ways,</BibleText>
+
+
+      <BibleText verse={34}>And bring your youngest brother to me, that I may know you are not spies: and you may receive this man again, that is kept in prison: and afterwards may have leave to buy what you will.</BibleText>
+
+
+      <BibleText verse={35}>When they had told this, they poured out their corn, and every man found his money tied in the mouth of his sack: and all being astonished together,</BibleText>
+
+
+      <BibleText verse={36}>Their father Jacob said: You have made me to be without children: Joseph is not living, Simeon is kept in bonds, and Benjamin you will take away: all these evils are fallen upon me.</BibleText>
+
+
+      <BibleText verse={37}>And Ruben answered him: Kill my two sons, if I bring him not again to thee: deliver him into my hand, and I will restore him to thee.</BibleText>
+
+
+      <BibleText verse={38}>But he said: My son shall not go down with you: his brother is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my grey hairs with sorrow to hell.</BibleText>
+
+:::note
+Note 1: To hell...That is, to that place, where the souls then remained, as above, chapter 37. ver. 35. 
+:::

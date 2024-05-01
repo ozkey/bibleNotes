@@ -1,0 +1,97 @@
+---
+sidebar_position: 24
+slug: /bible/Ezechiel/Ezechiel_24
+title: Ezechiel 24
+hide_table_of_contents: true
+---
+
+# Ezechiel 
+
+## Chapter 24
+
+
+Under the parable of a boiling pot is shewn the utter destruction of Jerusalem:  for which the Jews at Babylon shall not dare to mourn.
+
+
+
+
+      <BibleText verse={1}>And the word of the Lord came to me in the ninth year, in the tenth month, the tenth day of the month, saying:</BibleText>
+
+
+      <BibleText verse={2}>Son of man, write thee the name of this day, on which the king of Babylon hath set himself against Jerusalem to day.</BibleText>
+
+
+      <BibleText verse={3}>And thou shalt speak by a figure a parable to the provoking house, and say to them: Thus saith the Lord God: Set on a pot, set it on, I say, and put water in it.</BibleText>
+
+
+      <BibleText verse={4}>Heap together into it the pieces thereof, every good piece, the thigh and the shoulder, choice pieces and full of bones.</BibleText>
+
+
+      <BibleText verse={5}>Take the fattest of the flock, and lay together piles of bones under it: the seething thereof is boiling hot, and the bones thereof are thoroughly sodden in the midst of it.</BibleText>
+
+
+      <BibleText verse={6}>Therefore thus saith the Lord God: Woe to the bloody city, to the pot whose rust is in it, and its rust is not gone out of it: cast it out piece by piece, there hath no lot fallen upon it.</BibleText>
+
+
+      <BibleText verse={7}>For her blood is in the midst of her, she hath shed it upon the smooth rock: she hath not shed it upon the ground, that it might be covered with dust.</BibleText>
+
+
+      <BibleText verse={8}>And that I might bring my indignation upon her, and take my vengeance: I have shed her blood upon the smooth rock, that it should not be covered.</BibleText>
+
+
+      <BibleText verse={9}>Therefore thus saith the Lord God: Woe to the bloody city, of which I will make a great bonfire.</BibleText>
+
+
+      <BibleText verse={10}>Heap together the bones, which I will burn with fire: the flesh shall be consumed, and the whole composition shall be sodden, and the bones shall be consumed.</BibleText>
+
+
+      <BibleText verse={11}>Then set it empty upon burning coals, that it may be hot, and the brass thereof may be melted: and let the filth of it be melted in the midst thereof, and let the rust of it be consumed.</BibleText>
+
+
+      <BibleText verse={12}>Great pains have been taken, and the great rust thereof is not gone out, not even by fire.</BibleText>
+
+
+      <BibleText verse={13}>Thy uncleanness is execrable: because I desired to cleanse thee, and thou art not cleansed from thy filthiness: neither shalt thou be cleansed, before I cause my indignation to rest in thee.</BibleText>
+
+
+      <BibleText verse={14}>I the Lord have spoken: it shall come to pass, and I will do it: I will not pass by, nor spare, nor be pacified: I will judge thee according to thy ways, and according to thy doings, saith the Lord.</BibleText>
+
+
+      <BibleText verse={15}>And the word of the Lord came to me, saying:</BibleText>
+
+
+      <BibleText verse={16}>Son of man, behold I take from thee the desire of thy eyes with a stroke, and thou shall not lament, nor weep; neither shall thy tears run down.</BibleText>
+
+
+      <BibleText verse={17}>Sigh in silence, make no mourning for the dead: let the tire of thy head be upon thee, and thy shoes on thy feet, and cover not thy face, nor eat the meat of mourners.</BibleText>
+
+
+      <BibleText verse={18}>So I spoke to the people in the morning, and my wife died in the evening: and I did in the morning as he had commanded me.</BibleText>
+
+
+      <BibleText verse={19}>And the people said to me: Why dost thou not tell us what these things mean that thou doest?</BibleText>
+
+
+      <BibleText verse={20}>And I said to them: The word of the Lord came to me, saying:</BibleText>
+
+
+      <BibleText verse={21}>Speak to the house of Israel: Thus saith the Lord God: Behold I will profane my sanctuary, the glory of your realm, and the thing that your eyes desire, and for which your soul feareth: your sons, and your daughters, whom you have left, shall fall by the sword.</BibleText>
+
+
+      <BibleText verse={22}>And you shall do as I have done: you shall not cover your faces, nor shall you eat the meat of mourners.</BibleText>
+
+
+      <BibleText verse={23}>You shall have crowns on your heads, and shoes on your feet: you shall not lament nor weep, but you shall pine away for your iniquities, and every one shall sigh with his brother.</BibleText>
+
+
+      <BibleText verse={24}>And Ezechiel shall be unto you for a sign of things to come: according to all that he hath done, so shall you do, when this shall come to pass: and you shall know that I am the Lord God.</BibleText>
+
+
+      <BibleText verse={25}>And thou, O son of man, behold in the day wherein I will take away from them their strength, and the joy of their glory, and the desire of their eyes, upon which their souls rest, their sons and their daughters.</BibleText>
+
+
+      <BibleText verse={26}>In that day when he that escapeth shall come to thee, to tell thee:</BibleText>
+
+
+      <BibleText verse={27}>In that day, I say, shall thy mouth be opened to him that hath escaped, and thou shalt speak, and shalt be silent no more: and thou shalt be unto them for a sign of things to come, and you shall know that I am the Lord.</BibleText>
+

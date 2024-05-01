@@ -1,0 +1,24 @@
+{
+    "booknumber": 41,
+    "shortname": "Sophonias",
+    "contentsname": "Prophecy of Sophonias",
+    "bookname": "THE PROPHECY OF SOPHONIAS",
+    "bookdesc": "SOPHONIAS, whose name, saith St. Jerome, signifies The Watchman of the Lord, or The hidden of the Lord, prophesied in the beginning of the reign of Josias.  He was a native of Sarabatha, and of the tribe of Simeon, according to the more general opinion.  He prophesied the punishments of the Jews, for their idolatry and other crimes; also the punishments that were to come on divers nations; the coming of Christ, the conversion of the Gentiles, the blindness of the Jews, and their conversion towards the end of the world.",
+    "chapters": [
+        {
+            "chaptername": "Sophonias Chapter 1",
+            "chapterdesc": "For divers enormous sins, the kingdom of Juda is threatened with severe judgment.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Sophonias Chapter 2",
+            "chapterdesc": "An exhortation to repentance.  The judgment of the Philistines, of the Moabites, and the Ammonites; of the Ethiopians and the Assyrians.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Sophonias Chapter 3",
+            "chapterdesc": "A woe to Jerusalem for her sins.  A prophecy of the conversion of the Gentiles, and of the poor of Israel:  God shall be with them.  The Jews shall be converted at last.",
+            "chapternumber": 3
+        }
+    ]
+}

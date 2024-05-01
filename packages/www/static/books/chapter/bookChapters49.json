@@ -1,0 +1,129 @@
+{
+    "booknumber": 49,
+    "shortname": "Luke",
+    "contentsname": "Gospel According to St. Luke",
+    "bookname": "THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. LUKE",
+    "bookdesc": "St. Luke was a native of Antioch, the capital of Syria.  He was by profession a physician; and some ancient writers say, that he was very skillful in painting.  He was converted by St. Paul and became his disciple and companion in his travels, and fellow-labourer in the ministry of the Gospel.  He wrote in Greek, about twenty-four years after our Lord's Ascension.",
+    "chapters": [
+        {
+            "chaptername": "Luke Chapter 1",
+            "chapterdesc": "The conception of John the Baptist, and of Christ.  The visitation and canticle of the Blessed Virgin.  The birth of the Baptist and the canticle of Zachary.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Luke Chapter 2",
+            "chapterdesc": "The birth of Christ.  His presentation in the temple.  Simeon's prophecy. Christ at twelve years of age, is found amongst the doctors.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Luke Chapter 3",
+            "chapterdesc": "John's mission and preaching.  Christ is baptized by him.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Luke Chapter 4",
+            "chapterdesc": "Christ's fasting and temptation.  He is persecuted in Nazareth.  His miracles in Capharnaum.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Luke Chapter 5",
+            "chapterdesc": "The miraculous draught of fishes.  The cure of the leper and of the paralytic.  The call of Matthew.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Luke Chapter 6",
+            "chapterdesc": "Christ excuses his disciples.  He cures upon the sabbath day, chooses the twelve and makes a sermon to them.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Luke Chapter 7",
+            "chapterdesc": "Christ heals the centurion's servant.  He raises the widow's son to life, answers the messengers sent by John and absolves the penitent sinner.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Luke Chapter 8",
+            "chapterdesc": "The parable of the seed.  Christ stills the storm at sea, casts out the legion, heals the issue of blood and raises the daughter of Jairus to life.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Luke Chapter 9",
+            "chapterdesc": "Christ sends forth his apostles, feeds five thousand with five loaves, is transfigured and casts out a devil.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Luke Chapter 10",
+            "chapterdesc": "Christ sends forth and instructs his seventy-two disciples.  The good Samaritan.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Luke Chapter 11",
+            "chapterdesc": "Christ teaches his disciples to pray.  He casts out a dumb devil, confutes the Pharisees, and pronounces woes against them for their hypocrisy.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Luke Chapter 12",
+            "chapterdesc": "Christ warns us against hypocrisy, the fear of the world and covetousness.  He admonishes all to watch.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Luke Chapter 13",
+            "chapterdesc": "The necessity of penance.  The barren fig tree.  The cure of the infirm woman.  The journey to Jerusalem.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Luke Chapter 14",
+            "chapterdesc": "Christ heals the dropsical man.  The parable of the supper.  The necessity of renouncing all to follow Christ.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Luke Chapter 15",
+            "chapterdesc": "The parables of the lost sheep and of the prodigal son.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Luke Chapter 16",
+            "chapterdesc": "The parable of the unjust steward and of the rich man and Lazarus.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "Luke Chapter 17",
+            "chapterdesc": "Lessons of avoiding scandal and of the efficacy of faith.  The ten lepers.  The manner of the coming of Christ.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "Luke Chapter 18",
+            "chapterdesc": "We must pray always.  The Pharisee and the publican.  The danger of riches.  The blind man is restored to sight.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "Luke Chapter 19",
+            "chapterdesc": "Zacheus entertains Christ.  The parable of the pounds.  Christ rides upon an ass and weeps over Jerusalem.",
+            "chapternumber": 19
+        },
+        {
+            "chaptername": "Luke Chapter 20",
+            "chapterdesc": "The parable of the husbandmen.  Of paying tribute to Caesar and of the resurrection of the dead.",
+            "chapternumber": 20
+        },
+        {
+            "chaptername": "Luke Chapter 21",
+            "chapterdesc": "The widow's mites.  The signs that should forerun the destruction of Jerusalem and the end of the world.",
+            "chapternumber": 21
+        },
+        {
+            "chaptername": "Luke Chapter 22",
+            "chapterdesc": "The treason of Judas.  The last supper.  The first part of the history of the passion.",
+            "chapternumber": 22
+        },
+        {
+            "chaptername": "Luke Chapter 23",
+            "chapterdesc": "The continuation of the history of the passion.",
+            "chapternumber": 23
+        },
+        {
+            "chaptername": "Luke Chapter 24",
+            "chapterdesc": "Christ's resurrection and manifestation of himself to his disciples.",
+            "chapternumber": 24
+        }
+    ]
+}

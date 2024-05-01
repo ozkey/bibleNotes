@@ -1,0 +1,11 @@
+---
+sidebar_position: 72
+---
+  
+# Jude
+ 
+## Catholic Epistle of St. Jude the Apostle
+ 
+<BibleChapterIntro book={72}>
+St. Jude, who wrote this Epistle, was one of the twelve Apostles and brother to St. James the Less.  The time it was written is uncertain: only it may be inferred from verse 17 that few or none of the Apostles were then living, except St. John.  He inveighs against the heresies and wicked practices of the Simonians, Nicolaites, and Gnostics, etc., describing them and their leaders by strong epithets and similes, He exhorts the faithful to contend earnestly for the faith first delivered to them and to beware of heretics.
+</BibleChapterIntro>

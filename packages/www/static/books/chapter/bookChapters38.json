@@ -1,0 +1,44 @@
+{
+    "booknumber": 38,
+    "shortname": "Micheas",
+    "contentsname": "Prophecy of Micheas",
+    "bookname": "THE PROPHECY OF MICHEAS",
+    "bookdesc": "MICHEAS, of Morasti, a little town in the tribe of JUDA, was contemporary with the prophet ISAIAS:  whom he resembles both in his spirit and his style.  He is different from the prophet MICHEAS mentioned in the third book of Kings, chap. 22.  For that MICHEAS lived in the days of king ACHAB, one hundred and fifty years before the time of EZECHIAS, under whom this MICHEAS prophesied.",
+    "chapters": [
+        {
+            "chaptername": "Micheas Chapter 1",
+            "chapterdesc": "Samaria for her sins shall be destroyed by the Assyrians; they shall also invade Juda and Jerusalem.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Micheas Chapter 2",
+            "chapterdesc": "The Israelites by their crying injustices provoke God to punish them. He shall at last restore Jacob.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Micheas Chapter 3",
+            "chapterdesc": "For the sins of the rich oppressing the poor, of false prophets flattering for lucre, and of judges perverting justice, Jerusalem and the temple shall be destroyed.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Micheas Chapter 4",
+            "chapterdesc": "The glory of the church of Christ, by the conversion of the Gentiles. The Jews shall be carried captives to Babylon, and be delivered again.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Micheas Chapter 5",
+            "chapterdesc": "The birth of Christ in Bethlehem:  his reign and spiritual conquests.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Micheas Chapter 6",
+            "chapterdesc": "God expostulates with the Jews for their ingratitude and sins:  for which they shall be punished.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Micheas Chapter 7",
+            "chapterdesc": "The prophet laments, that notwithstanding all his preaching, the generality are still corrupt in their manners:  therefore their desolation is at hand:  but they shall be restored again and prosper; and all mankind shall be redeemed by Christ.",
+            "chapternumber": 7
+        }
+    ]
+}

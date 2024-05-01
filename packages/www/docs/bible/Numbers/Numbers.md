@@ -1,0 +1,11 @@
+---
+sidebar_position: 4
+---
+  
+# Numbers
+ 
+## Book of Numbers
+ 
+<BibleChapterIntro book={4}>
+This fourth Book of Moses is called NUMBERS, because it begins with the numbering of the people.  The Hebrews, from its first words, call it VAIEDABBER.  It contains the transactions of the Israelites from the second month of the second year after their going out of Egypt, until the beginning of the eleventh month of the fortieth year; that is, a history almost of thirty-nine years.
+</BibleChapterIntro>

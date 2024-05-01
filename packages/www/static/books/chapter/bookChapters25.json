@@ -1,0 +1,104 @@
+{
+    "booknumber": 25,
+    "shortname": "Wisdom",
+    "contentsname": "Book of Wisdom",
+    "bookname": "THE BOOK OF WISDOM",
+    "bookdesc": "This Book is so called, because it treats of the excellence of WISDOM, the means to obtain it, and the happy fruits it produces.  It is written in the person of Solomon, and contains his sentiments.  But it is uncertain who was the writer.  It abounds with instructions and exhortations to kings and all magistrates to minister justice in the commonwealth, teaching all kinds of virtues under the general names of justice and wisdom.  It contains also many prophecies of Christ's coming, passion, resurrection, and other Christian mysteries.  The whole may be divided into three parts.  In the first six chapters, the author admonishes all superiors to love and exercise justice and wisdom.  In the next three, he teacheth that wisdom proceedeth only from God, and is procured by prayer and a good life.  In the other ten chapters, he sheweth the excellent effects and utility of wisdom and justice.",
+    "chapters": [
+        {
+            "chaptername": "Wisdom Chapter 1",
+            "chapterdesc": "An exhortation to seek God sincerely, who cannot be deceived, and desireth not our death.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Wisdom Chapter 2",
+            "chapterdesc": "The vain reasonings of the wicked:  their persecuting the just, especially the Son of God.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Wisdom Chapter 3",
+            "chapterdesc": "The happiness of the just:  and the unhappiness of the wicked.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Wisdom Chapter 4",
+            "chapterdesc": "The difference between the chaste and the adulterous generations:  and between the death of the just and the wicked.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Wisdom Chapter 5",
+            "chapterdesc": "The fruitless repentance of the wicked in another world:  the reward of the just.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Wisdom Chapter 6",
+            "chapterdesc": "An address to princes to seek after wisdom:  she is easily found by those that seek her.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Wisdom Chapter 7",
+            "chapterdesc": "The excellence of wisdom:  how she is to be found.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Wisdom Chapter 8",
+            "chapterdesc": "Further praises of wisdom:  and her fruits.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Wisdom Chapter 9",
+            "chapterdesc": "Solomon's prayer for wisdom.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Wisdom Chapter 10",
+            "chapterdesc": "What wisdom did for Adam, Noe, Abraham, Lot, Jacob, Joseph, and the people of Israel.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Wisdom Chapter 11",
+            "chapterdesc": "Other benefits of wisdom to the people of God.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Wisdom Chapter 12",
+            "chapterdesc": "God's wisdom and mercy in his proceedings with the Chanaanites.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Wisdom Chapter 13",
+            "chapterdesc": "Idolaters are inexcusable:  and those most of all that worship for gods the works of the hands of men.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Wisdom Chapter 14",
+            "chapterdesc": "The beginning of worshipping idols:  and the effects thereof.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Wisdom Chapter 15",
+            "chapterdesc": "The servants of God praise him who hath delivered them from idolatry; condemning both the makers and the worshippers of idols.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Wisdom Chapter 16",
+            "chapterdesc": "God's different dealings with the Egyptians and with his own people.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "Wisdom Chapter 17",
+            "chapterdesc": "The Egyptian darkness.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "Wisdom Chapter 18",
+            "chapterdesc": "The slaughter of the firstborn in Egypt:  the efficacy of Aaron's intercession, in the sedition on occasion of Core.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "Wisdom Chapter 19",
+            "chapterdesc": "Why God shewed no mercy to the Egyptians.  His favour to the Israelites. All creatures obey God's orders for the service of the good, and the punishment of the wicked.",
+            "chapternumber": 19
+        }
+    ]
+}

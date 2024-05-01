@@ -1,0 +1,154 @@
+{
+    "booknumber": 13,
+    "shortname": "1 Paralipomenon",
+    "contentsname": "First Book of Paralipomenon",
+    "bookname": "THE FIRST BOOK OF PARALIPOMENON",
+    "bookdesc": "These Books are called by the Greek interpreters, Paralipomenon, that is, of things left out, or omitted; because they are a kind of a supplement of such things as were passed over in the books of the Kings.  The Hebrews call them Dibre Haijamim, that is, The words of the days, or The Chronicles.--Not that they are the books which are so often quoted in the Kings, under the title of the words of the days of the kings of Israel, and of the kings of Juda:  for the books of Paralipomenon were written after the books of Kings:  but because in all probability they have been abridged from those ancient words of the days, by Esdras or some other sacred writer.",
+    "chapters": [
+        {
+            "chaptername": "1 Paralipomenon Chapter 1",
+            "chapterdesc": "The genealogy of the patriarchs down to Abraham:  The posterity of Abraham and of Esau.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 2",
+            "chapterdesc": "The twelve tribes of Israel.  The genealogy of Juda down to David.  Other genealogies of the tribe of Juda.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 3",
+            "chapterdesc": "The genealogy of the house of David.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 4",
+            "chapterdesc": "Other genealogies of Juda and Simeon, and their victories.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 5",
+            "chapterdesc": "Genealogies of Ruben and Gad:  their victories over the Agarites:  their captivity.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 6",
+            "chapterdesc": "The genealogies of Levi, and of Aaron:  the cities of the Levites.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 7",
+            "chapterdesc": "Genealogies of Issachar, Benjamin, Nephtali, Manasses, Ephraim, and Aser.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 8",
+            "chapterdesc": "The posterity of Benjamin is further declared down to Saul.  His issue.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 9",
+            "chapterdesc": "The Israelites, priests, and Levites, who first dwelt in Jerusalem after the captivity.  A repetition of the genealogy of Saul.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 10",
+            "chapterdesc": "Saul is slain for his sins:  he is buried by the men of Jabes.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 11",
+            "chapterdesc": "David is made king.  He taketh the castle of Sion.  A catalogue of his valiant men.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 12",
+            "chapterdesc": "Who followed David when he fled from Saul.  And who came to Hebron to make him king.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 13",
+            "chapterdesc": "The ark is brought from Cariathiarim.  Oza for touching it is struck dead.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 14",
+            "chapterdesc": "David's house, and children:  his victories over the Philistines.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 15",
+            "chapterdesc": "The ark is brought into the city of David, with great solemnity.  Michol derideth David's devotion.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 16",
+            "chapterdesc": "The ark is placed in the tabernacle.  Sacrifice is offered.  David blesseth the people, disposeth the offices of Levites, and maketh a psalm of praise to God.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 17",
+            "chapterdesc": "David's purpose to build a temple, is rewarded by most ample promises: David's thanksgiving.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 18",
+            "chapterdesc": "David's victories.  His chief officers.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 19",
+            "chapterdesc": "The Ammonites abuse David's ambassadors:  both they and their confederates are overthrown.",
+            "chapternumber": 19
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 20",
+            "chapterdesc": "Rabba is taken.  Other victories over the Philistines.",
+            "chapternumber": 20
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 21",
+            "chapterdesc": "David's sin in numbering the people is punished by a pestilence:  which ceaseth upon his offering sacrifice in the thrashingfloor of Ornan.",
+            "chapternumber": 21
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 22",
+            "chapterdesc": "David having prepared all necessaries, chargeth Solomon to build the temple and the princes to assist him.",
+            "chapternumber": 22
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 23",
+            "chapterdesc": "David appointeth Solomon king.  The distribution of the Levites and their offices.",
+            "chapternumber": 23
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 24",
+            "chapterdesc": "The divisions of the priests into four and twenty courses, to serve in the temple:  the chiefs of the Levites.",
+            "chapternumber": 24
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 25",
+            "chapterdesc": "The number and divisions of the musicians.",
+            "chapternumber": 25
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 26",
+            "chapterdesc": "The divisions of the porters.  Offices of other Levites.",
+            "chapternumber": 26
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 27",
+            "chapterdesc": "The twelve captains for every month; the twelve princes of the tribes. David's several officers.",
+            "chapternumber": 27
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 28",
+            "chapterdesc": "David's speech, in a solemn assembly:  his exhortation to Solomon.  He giveth him a pattern of the temple.",
+            "chapternumber": 28
+        },
+        {
+            "chaptername": "1 Paralipomenon Chapter 29",
+            "chapterdesc": "David by word and example encourageth the princes to contribute liberally to the building of the temple.  His thanksgiving, prayer, and sacrifices:  his death.",
+            "chapternumber": 29
+        }
+    ]
+}

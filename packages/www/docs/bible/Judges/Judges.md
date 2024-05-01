@@ -1,0 +1,11 @@
+---
+sidebar_position: 7
+---
+  
+# Judges
+ 
+## Book of Judges
+ 
+<BibleChapterIntro book={7}>
+This Book is called JUDGES, because it contains the history of what passed under the government of the judges, who ruled Israel before they had kings.  The writer of it, according to the more general opinion, was the prophet Samuel.
+</BibleChapterIntro>

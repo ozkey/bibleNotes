@@ -1,0 +1,118 @@
+---
+sidebar_position: 27
+slug: /bible/Leviticus/Leviticus_27
+title: Leviticus 27
+hide_table_of_contents: true
+---
+
+# Leviticus 
+
+## Chapter 27
+
+
+Of vows and tithes.
+
+
+
+
+      <BibleText verse={1}>And the Lord spoke to Moses, saying:</BibleText>
+
+
+      <BibleText verse={2}>Speak to the children of Israel, and thou shalt say to them: The man that shall have made a vow, and promised his soul to God, shall give the price according to estimation.</BibleText>
+
+
+      <BibleText verse={3}>If it be a man from twenty years old unto sixty years old, he shall give fifty sicles of silver, after the weight of the sanctuary:</BibleText>
+
+
+      <BibleText verse={4}>If a woman, thirty.</BibleText>
+
+
+      <BibleText verse={5}>But from the fifth year until the twentieth, a man shall give twenty sicles: a woman ten.</BibleText>
+
+
+      <BibleText verse={6}>From one month until the fifth year, for a male shall be given five sicles: for a female three.</BibleText>
+
+
+      <BibleText verse={7}>A man that is sixty years old or upward, shall give fifteen sicles: a woman ten.</BibleText>
+
+
+      <BibleText verse={8}>If he be poor, and not able to pay the estimation, he shall stand before the priest: and as much as he shall value him at, and see him able to pay, so much shall he give.</BibleText>
+
+
+      <BibleText verse={9}>But a beast that may be sacrificed to the Lord, if any one shall vow, shall be holy,</BibleText>
+
+
+      <BibleText verse={10}>And cannot be changed: that is to say, neither a better for a worse, nor a worse for a better. And if he shall change it: both that which was changed, and that for which it was changed, shall be consecrated to the Lord.</BibleText>
+
+
+      <BibleText verse={11}>An unclean beast, which cannot be sacrificed to the Lord, if any man shall vow, shall be brought before the priest:</BibleText>
+
+
+      <BibleText verse={12}>Who judging whether it be good or bad, shall set the price.</BibleText>
+
+
+      <BibleText verse={13}>Which, if he that offereth it will give, he shall add above the estimation the fifth part.</BibleText>
+
+
+      <BibleText verse={14}>If a man shall vow his house, and sanctify it to the Lord, the priest shall consider it, whether it be good or bad: and it shall be sold according to the price, which he shall appoint.</BibleText>
+
+
+      <BibleText verse={15}>But if he that vowed, will redeem it, he shall give the fifth part of the estimation over and above: and shall have the house.</BibleText>
+
+
+      <BibleText verse={16}>And if he vow the field of his possession, and consecrate it to the Lord, the price shall be rated according to the measure of the seed. If the ground be sown with thirty bushels of barley, let it be sold for fifty sicles of silver.</BibleText>
+
+
+      <BibleText verse={17}>If he vow his field immediately from the year of jubilee that is beginning: as much as it may be worth, at so much it shall be rated.</BibleText>
+
+
+      <BibleText verse={18}>But if some time after, the priest shall reckon the money according to the number of years that remain until the jubilee, and the price shall be abated.</BibleText>
+
+
+      <BibleText verse={19}>And if he that had vowed, will redeem his field, he shall add the fifth part of the money of the estimation, and shall possess it.</BibleText>
+
+
+      <BibleText verse={20}>And if he will not redeem it, but it be sold to any other man, he that vowed it, may not redeem it any more.</BibleText>
+
+
+      <BibleText verse={21}>For when the day of jubilee cometh, it shall be sanctified to the Lord, and as a possession consecrated, pertaineth to the right of the priest.</BibleText>
+
+
+      <BibleText verse={22}>If a field that was bought, and not of a man's ancestors' possession, be sanctified to the Lord:</BibleText>
+
+
+      <BibleText verse={23}>The priest shall reckon the price according to the number of years, unto the jubilee. And he that had vowed, shall give that to the Lord.</BibleText>
+
+
+      <BibleText verse={24}>But in the jubilee, it shall return to the former owner, who had sold it, and had it in the lot of his possession.</BibleText>
+
+
+      <BibleText verse={25}>All estimation shall be made according to the sicle of the sanctuary. A sicle hath twenty obols.</BibleText>
+
+
+      <BibleText verse={26}>The firstborn, which belong to the Lord, no man may sanctify and vow: whether it be bullock, or sheep, they are the Lord's.</BibleText>
+
+
+      <BibleText verse={27}>And if it be an unclean beast, he that offereth it shall redeem it, according to thy estimation, and shall add the fifth part of the price. If he will not redeem it, it shall be sold to another for how much soever it was estimated by thee.</BibleText>
+
+
+      <BibleText verse={28}>Any thing that is devoted to the Lord, whether it be man, or beast, or field, shall not be sold: neither may it be redeemed. Whatsoever is once consecrated shall be holy of holies to the Lord.</BibleText>
+
+
+      <BibleText verse={29}>And any consecration that is offered by man, shall not be redeemed, but dying shall die.</BibleText>
+
+
+      <BibleText verse={30}>All tithes of the land, whether of corn, or of the fruits of trees, are the Lord's, and are sanctified to him.</BibleText>
+
+
+      <BibleText verse={31}>And if any man will redeem his tithes, he shall add the fifth part of them.</BibleText>
+
+
+      <BibleText verse={32}>Of all the tithes of oxen, and sheep, and goats, that pass under the shepherd's rod, every tenth that cometh shall be sanctified to the Lord.</BibleText>
+
+
+      <BibleText verse={33}>It shall not be chosen neither good nor bad, neither shall it be changed for another. If any man change it: both that which was changed, and that for which it was changed, shall be sanctified to the Lord, and shall not be redeemed.</BibleText>
+
+
+      <BibleText verse={34}>These are the precepts which the Lord commanded Moses for the children of Israel in mount Sinai.</BibleText>
+

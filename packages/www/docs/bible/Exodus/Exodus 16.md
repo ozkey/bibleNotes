@@ -1,0 +1,124 @@
+---
+sidebar_position: 16
+slug: /bible/Exodus/Exodus_16
+title: Exodus 16
+hide_table_of_contents: true
+---
+
+# Exodus 
+
+## Chapter 16
+
+
+The people murmur for want of meat:  God giveth them quails and manna.
+
+
+
+
+      <BibleText verse={1}>And they set forward from Elim, and all the multitude of the children of Israel came into the desert of Sin, which is between Elim and Sinai: the fifteenth day of the second month, after they came out of the land of Egypt.</BibleText>
+
+
+      <BibleText verse={2}>And all the congregation of the children of Israel murmured against Moses and Aaron in the wilderness.</BibleText>
+
+
+      <BibleText verse={3}>And the children of Israel said to them: Would to God we had died by the hand of the Lord in the land of Egypt, when we sat over the fleshpots, and ate bread to the full: Why have you brought us into this desert, that you might destroy all the multitude with famine?</BibleText>
+
+
+      <BibleText verse={4}>And the Lord said to Moses: Behold I will rain bread from heaven for you; let the people go forth, and gather what is sufficient for every day: that I may prove them whether they will walk in my law, or not.</BibleText>
+
+
+      <BibleText verse={5}>But the sixth day let them provide for to bring in: and let it be double to that they were wont to gather every day.</BibleText>
+
+
+      <BibleText verse={6}>And Moses and Aaron said to the children of Israel In the evening you shall know that the Lord hath brought you forth out of the land of Egypt:</BibleText>
+
+
+      <BibleText verse={7}>And in the morning you shall see the glory of the Lord: for he hath heard your murmuring against the Lord: but as for us, what are we, that you mutter against us?</BibleText>
+
+
+      <BibleText verse={8}>And Moses said: In the evening the Lord will give you flesh to eat, and in the morning bread to the full: for he hath heard your murmurings, with which you have murmured against him, for what are we? your murmuring is not against us, but against the Lord.</BibleText>
+
+
+      <BibleText verse={9}>Moses also said to Aaron: Say to the whole congregation of the children of Israel: Come before the Lord; for he hath heard your murmuring.</BibleText>
+
+
+      <BibleText verse={10}>And when Aaron spoke to all the assembly of the children of Israel, they looked towards the wilderness; and behold the glory of the Lord appeared in a cloud.</BibleText>
+
+
+      <BibleText verse={11}>And the Lord spoke to Moses, saying:</BibleText>
+
+
+      <BibleText verse={12}>I have heard the murmuring of the children of Israel, say to them: In the evening you shall eat flesh, and in the morning you shall have your fill of bread; and you shall know that I am the Lord your God.</BibleText>
+
+
+      <BibleText verse={13}>So it came to pass in the evening, that quails coming up, covered the camp: and in the morning a dew lay round about the camp.</BibleText>
+
+
+      <BibleText verse={14}>And when it had covered the face of the earth, it appeared in the wilderness small, and as it were beaten with a pestle, like unto the hoar frost on the ground.</BibleText>
+
+
+      <BibleText verse={15}>And when the children of Israel saw it, they said one to another: Manhu! which signifieth: What is this! for they knew not what it was. And Moses said to them: This is the bread which the Lord hath given you to eat.</BibleText>
+
+
+      <BibleText verse={16}>This is the word that the Lord hath commanded: Let every one gather of it as much as is enough to eat; a gomor for every man, according to the number of your souls that dwell in a tent, so shall you take of it.</BibleText>
+
+
+      <BibleText verse={17}>And the children of Israel did so: and they gathered, one more, another less.</BibleText>
+
+
+      <BibleText verse={18}> And they measured by the measure of a gomor: neither had he more that had gathered more; nor did he find less that had provided less: but every one had gathered, according to what they were able to eat.</BibleText>
+
+
+      <BibleText verse={19}>And Moses said to them: Let no man leave thereof till the morning.</BibleText>
+
+
+      <BibleText verse={20}>And they hearkened not to him, but some of them left until the morning, and it began to be full of worms, and it putrified, and Moses was angry with them.</BibleText>
+
+
+      <BibleText verse={21}>Now every one of them gathered in the morning, as much as might suffice to eat: and after the sun grew hot, it melted.</BibleText>
+
+
+      <BibleText verse={22}>But on the sixth day they gathered twice as much, that is, two gomors every man: and all the rulers of the multitude came, and told Moses.</BibleText>
+
+
+      <BibleText verse={23}>And he said to them: This is what the Lord hath spoken: To morrow is the rest of the sabbath sanctified to the Lord. Whatsoever work is to be done, do it; and the meats that are to be dressed, dress them; and whatsoever shall remain, lay it up until the morning.</BibleText>
+
+
+      <BibleText verse={24}>And they did so as Moses had commanded, and it did not putrify, neither was there worm found in it.</BibleText>
+
+
+      <BibleText verse={25}>And Moses said: Eat it to day, because it is the sabbath of the Lord: to day it shall not be found in the field.</BibleText>
+
+
+      <BibleText verse={26}>Gather it six days; but on the seventh day is the sabbath of the Lord, therefore it shall not be found.</BibleText>
+
+
+      <BibleText verse={27}>And the seventh day came; and some of the people going forth to gather, found none.</BibleText>
+
+
+      <BibleText verse={28}>And the Lord said to Moses: How long will you refuse to keep my commandments, and my law?</BibleText>
+
+
+      <BibleText verse={29}>See that the Lord hath given you the sabbath, and for this reason on the sixth day he giveth you a double provision: let each man stay at home, and let none go forth out of his place the seventh day.</BibleText>
+
+
+      <BibleText verse={30}>And the people kept the sabbath on the seventh day.</BibleText>
+
+
+      <BibleText verse={31}>And the house of Israel called the name thereof Manna: and it was like coriander seed, white, and the taste thereof like to flour with honey.</BibleText>
+
+
+      <BibleText verse={32}>And Moses said: This is the word which the Lord hath commanded: Fill a gomor of it, and let it be kept unto generations to come hereafter; that they may know the bread, wherewith I fed you in the wilderness when you were brought forth out of the land of Egypt.</BibleText>
+
+
+      <BibleText verse={33}>And Moses said to Aaron: Take a vessel, and put manna into it, as much as a gomor can hold; and lay it up before the Lord, to keep unto your generations,</BibleText>
+
+
+      <BibleText verse={34}>As the Lord commanded Moses. And Aaron put it in the tabernacle to be kept.</BibleText>
+
+
+      <BibleText verse={35}>And the children of Israel ate manna forty years, till they came to a habitable land: with this meat were they fed, until they reached the borders of the land of Chanaan.</BibleText>
+
+
+      <BibleText verse={36}>Now a gomor is the tenth part of an ephi.</BibleText>
+

@@ -1,0 +1,11 @@
+---
+sidebar_position: 51
+---
+  
+# Acts
+ 
+## Acts of the Apostles
+ 
+<BibleChapterIntro book={51}>
+This Book, which, from the first ages, hath been called, THE ACTS OF THE APOSTLES, is not to be considered as a history of what was done by all the Apostles, who were dispersed into different nations; but only a short view of the first establishment of the Christian Church.  A part of the preaching and action of St. Peter are related in the first twelve chapters; and a particular account of St. Paul's apostolical labours in the subsequent chapters.  It was written by St. Luke the Evangelist, and the original in Greek.  Its history commences from the Ascension of Christ our Lord and ends in the year sixty-three, being a brief account of the Church for the space of about thirty years.
+</BibleChapterIntro>
