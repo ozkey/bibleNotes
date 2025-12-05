@@ -1,0 +1,79 @@
+{
+    "booknumber": 17,
+    "shortname": "Tobias",
+    "contentsname": "Book of Tobias",
+    "bookname": "THE BOOK OF TOBIAS",
+    "bookdesc": "This Book takes its name from the holy man Tobias, whose wonderful virtues are herein recorded.  It contains most excellent documents of great piety, extraordinary patience, and of a perfect resignation to the will of God.  His humble prayer was heard, and the angel Raphael was sent to relieve him:  he is thankful and praises the Lord, calling on the children of Israel to do the same.  Having lived to the age of one hundred and two years, he exhorts his son and grandsons to piety, foretells the destruction of Ninive and the rebuilding of Jerusalem:  he dies happily.",
+    "chapters": [
+        {
+            "chaptername": "Tobias Chapter 1",
+            "chapterdesc": "Tobias's early piety:  his works of mercy, particularly in burying the dead.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Tobias Chapter 2",
+            "chapterdesc": "Tobias leaveth his dinner to bury the dead:  he loseth his sight by God's permission, for manifestation of his patience.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Tobias Chapter 3",
+            "chapterdesc": "The prayer of Tobias, and of Sara, in their several afflictions, are heard by God, and the angel Raphael is sent to relieve them.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Tobias Chapter 4",
+            "chapterdesc": "Tobias thinking he shall die, giveth his son godly admonitions:  and telleth him of money he had lent to a friend.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Tobias Chapter 5",
+            "chapterdesc": "Young Tobias seeking a guide for his journey, the angel Raphael, in shape of a man, undertaketh this office.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Tobias Chapter 6",
+            "chapterdesc": "By the angel's advice young Tobias taketh hold on a fish that assaulteth him.  Reserveth the heart, the gall, and the liver for medicines.  They lodge at the house of Raguel, whose daughter Sara, Tobias is to marry; she had before been married to seven husbands, who were all slain by a devil.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Tobias Chapter 7",
+            "chapterdesc": "They are kindly entertained by Raguel.  Tobias demandeth Sara to wife.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Tobias Chapter 8",
+            "chapterdesc": "Tobias burneth part of the fish's liver, and Raphael bindeth the devil. Tobias and Sara pray.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Tobias Chapter 9",
+            "chapterdesc": "The angel Raphael goeth to Gabelus, receiveth the money, and bringeth him to the marriage.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Tobias Chapter 10",
+            "chapterdesc": "The parents lament the long absence of their son Tobias.  He sets out to return.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Tobias Chapter 11",
+            "chapterdesc": "Tobias anointeth his father's eyes with the fish's gall, and he recovereth his sight.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Tobias Chapter 12",
+            "chapterdesc": "Raphael maketh himself known.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Tobias Chapter 13",
+            "chapterdesc": "Tobias the father praiseth God, exhorting all Israel to do the same. Prophesieth the restoration and better state of Jerusalem.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Tobias Chapter 14",
+            "chapterdesc": "Old Tobias dieth at the age of a hundred and two years, after exhorting his son and grandsons to piety, foreshewing that Ninive shall be destroyed, and Jerusalem rebuilt.  The younger Tobias returneth with his family to Raguel, and dieth happily as he had lived.",
+            "chapternumber": 14
+        }
+    ]
+}
