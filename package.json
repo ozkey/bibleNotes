@@ -11,9 +11,10 @@
   ],
   "scripts": {
     "start": "cd ./packages/www/ && npm run start",
+    "clean": "shx rm -rf docs/* && shx rm -rf packages/www/build",
     "build": "cd ./packages/www/ && npm run build",
-    "publish": "npm run build && shx cp -r build ../../docs",
-    "publish:copy": "cd ./packages/www/ && shx cp -r build ../../docs"
+    "publish": "npm run clean && npm run build && npm run publish:copy",
+    "publish:copy": "cd ./packages/www/ && shx cp -r build/* ../../docs"
   },
   "devDependencies": {
     "shx": "^0.4.0"
