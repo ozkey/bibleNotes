@@ -1,0 +1,34 @@
+---
+sidebar_position: 42
+slug: /bible/Psalms/Psalms_42
+title: Psalms 42
+hide_table_of_contents: true
+---
+
+# Psalms 
+
+## Chapter 42
+
+
+Judica me, Deus. The prophet aspireth after the temple and altar of God.
+
+
+
+
+      <BibleText verse={1}>A psalm for David. Judge me, O God, and distinguish my cause from the nation that is not holy: deliver me from the unjust and deceitful man.</BibleText>
+
+
+      <BibleText verse={2}>For thou art God my strength: why hast thou cast me off? and why do I go sorrowful whilst the enemy afflicteth me?</BibleText>
+
+
+      <BibleText verse={3}>Sent forth thy light and thy truth: they have conducted me, and brought me unto thy holy hill, and into thy tabernacles.</BibleText>
+
+
+      <BibleText verse={4}>And I will go in to the altar of God: to God who giveth joy to my youth.</BibleText>
+
+
+      <BibleText verse={5}>To thee, O God my God, I will give praise upon the harp: why art thou sad, O my soul? and why dost thou disquiet me?</BibleText>
+
+
+      <BibleText verse={6}>Hope in God, for I will still give praise to him: the salvation of my countenance, and my God.</BibleText>
+

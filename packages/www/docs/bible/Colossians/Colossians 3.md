@@ -1,0 +1,91 @@
+---
+sidebar_position: 3
+slug: /bible/Colossians/Colossians_3
+title: Colossians 3
+hide_table_of_contents: true
+---
+
+# Colossians 
+
+## Chapter 3
+
+
+He exhorts them to put off the old man, and to put on the new.  The duties of wives and husbands, children and servants.
+
+
+
+
+      <BibleText verse={1}>Therefore if you be risen with Christ, seek the things that are above, where Christ is sitting at the right hand of God.</BibleText>
+
+
+      <BibleText verse={2}>Mind the things that are above, not the things that are upon the earth.</BibleText>
+
+
+      <BibleText verse={3}>For you are dead: and your life is hid with Christ in God.</BibleText>
+
+
+      <BibleText verse={4}>When Christ shall appear, who is your life, then you also shall appear with him in glory.</BibleText>
+
+
+      <BibleText verse={5}>Mortify therefore your members which are upon the earth: fornication, uncleanness, lust, evil concupiscence and covetousness, which is the service of idols.</BibleText>
+
+
+      <BibleText verse={6}>For which things the wrath of God cometh upon the children of unbelief.</BibleText>
+
+
+      <BibleText verse={7}>In which you also walked some time, when you lived in them.</BibleText>
+
+
+      <BibleText verse={8}>But now put you also all away: anger, indignation, malice, blasphemy, filthy speech out of your mouth.</BibleText>
+
+
+      <BibleText verse={9}>Lie not one to another: stripping yourselves of the old man with his deeds,</BibleText>
+
+
+      <BibleText verse={10}>And putting on the new, him who is renewed unto knowledge, according to the image of him that created him.</BibleText>
+
+
+      <BibleText verse={11}>Where there is neither Gentile nor Jew, circumcision nor uncircumcision, Barbarian nor Scythian, bond nor free. But Christ is all and in all.</BibleText>
+
+
+      <BibleText verse={12}>Put ye on therefore, as the elect of God, holy and beloved, the bowels of mercy, benignity, humility, modesty, patience:</BibleText>
+
+
+      <BibleText verse={13}>Bearing with one another and forgiving one another, if any have a complaint against another. Even as the Lord hath forgiven you, so do you also.</BibleText>
+
+
+      <BibleText verse={14}>But above all these things have charity, which is the bond of perfection.</BibleText>
+
+
+      <BibleText verse={15}>And let the peace of Christ rejoice in your hearts, wherein also you are called in one body: and be ye thankful.</BibleText>
+
+
+      <BibleText verse={16}>Let the word of Christ dwell in you abundantly: in all wisdom, teaching and admonishing one another in psalms, hymns and spiritual canticles, singing in grace in your hearts to God.</BibleText>
+
+
+      <BibleText verse={17}>All whatsoever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God and the Father by him.</BibleText>
+
+
+      <BibleText verse={18}>Wives, be subject to your husbands, as it behoveth in the Lord.</BibleText>
+
+
+      <BibleText verse={19}>Husbands, love your wives and be not bitter towards them.</BibleText>
+
+
+      <BibleText verse={20}>Children, obey your parents in all things: for this is well pleasing to the Lord.</BibleText>
+
+
+      <BibleText verse={21}>Fathers, provoke not your children to indignation, lest they be discouraged.</BibleText>
+
+
+      <BibleText verse={22}>Servants, obey in all things your masters according to the flesh: not serving to the eye, as pleasing men: but in simplicity of heart, fearing God.</BibleText>
+
+
+      <BibleText verse={23}>Whatsoever you do, do it from the heart, as to the Lord, and not to men:</BibleText>
+
+
+      <BibleText verse={24}>Knowing that you shall receive of the Lord the reward of inheritance. Serve ye the Lord Christ.</BibleText>
+
+
+      <BibleText verse={25}>For he that doth wrong shall receive for that which he hath done wrongfully. And there is no respect of persons with God.</BibleText>
+

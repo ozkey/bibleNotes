@@ -1,0 +1,124 @@
+---
+sidebar_position: 16
+slug: /bible/3_Kings/3_Kings_16
+title: 3 Kings 16
+hide_table_of_contents: true
+---
+
+# 3 Kings 
+
+## Chapter 16
+
+
+Jehu prophesieth against Baasa:  his son Ela is slain and all his family destroyed by Zambri.  Of the reign of Amri father of Achab.
+
+
+
+
+      <BibleText verse={1}>Then the word of the Lord came to Jehu, the son of Hanani, against Baasa, saying:</BibleText>
+
+
+      <BibleText verse={2}>For as much as I have exalted thee out of the dust and made thee prince over my people Israel, and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins:</BibleText>
+
+
+      <BibleText verse={3}>Behold I will cut down the posterity of Baasa, and the posterity of his house, and I will make thy house as the house of Jeroboam, the son of Nabat.</BibleText>
+
+
+      <BibleText verse={4}>Him that dieth of Baasa, in the city, the dogs shall eat: and him that dieth of his in the country, the fowls of the air shall devour.</BibleText>
+
+
+      <BibleText verse={5}>But the rest of the acts of Baasa, and all that he did, and his battles, are they not written in the book of the words of the days of the kings of Israel?</BibleText>
+
+
+      <BibleText verse={6}>So Baasa slept with his fathers, and was buried in Thersa: and Ela, his son, reigned in his stead.</BibleText>
+
+
+      <BibleText verse={7}>And when the word of the Lord came in the hand of Jehu, the son of Hanani, the prophet, against Baasa, and against his house, and against all the evil that he had done before the Lord, to provoke him to anger by the works of his hands, to become as the house of Jeroboam: for this cause he slew him; that is to say, Jehu, the son of Hanani, the prophet.</BibleText>
+
+
+      <BibleText verse={8}>In the six and twentieth year of Asa, king of Juda, Ela, the son of Baasa, reigned over Israel, in Thersa, two years.</BibleText>
+
+
+      <BibleText verse={9}>And his servant Zambri, who was captain of half the horsemen, rebelled against him: now Ela was drinking in Thersa, and drunk in the house of Arsa, the governor of Thersa.</BibleText>
+
+
+      <BibleText verse={10}>And Zambri rushing in, struck him, and slew him, in the seven and twentieth year of Asa, king of Juda and he reigned in his stead.</BibleText>
+
+
+      <BibleText verse={11}>And when he was king, and sat upon his throne, he slew all the house of Baasa, and he left not one thereof to piss against a wall and all his kinsfolks and friends.</BibleText>
+
+
+      <BibleText verse={12}>And Zambri destroyed all the house of Baasa, according to the word of the Lord, that he had spoken to Baasa, in the hand of Jehu, the prophet,</BibleText>
+
+
+      <BibleText verse={13}>For all the sins of Baasa, and the sins of Ela, his son, who sinned, and made Israel to sin, provoking the Lord, the God of Israel, with their vanities.</BibleText>
+
+
+      <BibleText verse={14}>But the rest of the acts of Ela, and all that he did, are they not written in the book of the words of the days of the kings of Israel?</BibleText>
+
+
+      <BibleText verse={15}>In the seven and twentieth year of Asa, king of Juda, Zambri reigned seven days in Thersa: now the army was besieging Gebbethon, a city of the Philistines.</BibleText>
+
+
+      <BibleText verse={16}>And when they heard that Zambri had rebelled, and slain the king, all Israel made Amri their king, who was general over Israel in the camp that day.</BibleText>
+
+
+      <BibleText verse={17}>And Amri went up, and all Israel with him, from Gebbethon, and they besieged Thersa.</BibleText>
+
+
+      <BibleText verse={18}>And Zambri, seeing that the city was about to be taken, went into the palace, and burnt himself with the king's house: and he died</BibleText>
+
+
+      <BibleText verse={19}>In his sins, which he had sinned, doing evil before the Lord, and walking in the way of Jeroboam, and in his sin, wherewith he made Israel to sin.</BibleText>
+
+
+      <BibleText verse={20}>But the rest of the acts of Zambri, and of his conspiracy and tyranny, are they not written in the book of the words of the days of the kings of Israel?</BibleText>
+
+
+      <BibleText verse={21}>Then were the people of Israel divided into two parts: one half of the people followed Thebni, the son of Gineth, to make him king: and one half followed Amri.</BibleText>
+
+
+      <BibleText verse={22}>But the people that were with Amri, prevailed over the people that followed Thebni, the son of Gineth: and Thebni died, and Amri reigned.</BibleText>
+
+
+      <BibleText verse={23}>In the one and thirtieth year of Asa, king of Juda, Amri reigned over Israel twelve years: in Thersa he reigned six years.</BibleText>
+
+:::note
+Note 1: In the one and thirtieth year, etc...Amri began to reign in the seven and twentieth year of Asa; but had not quiet possession of the kingdom till the death of his competitor Thebni, which was in the one and thirtieth year of Asa's reign. 
+:::
+
+      <BibleText verse={24}>And he bought the hill of Samaria of Semer, for two talents of silver: and he built upon it, and he called the city which he built Samaria, after the name of Semer, the owner of the hill.</BibleText>
+
+
+      <BibleText verse={25}>And Amri did evil in the sight of the Lord, and acted wickedly above all that were before him.</BibleText>
+
+
+      <BibleText verse={26}>And he walked in all the way of Jeroboam, the son of Nabat, and in his sins, wherewith he made Israel to sin: to provoke the Lord, the God of Israel, to anger with their vanities.</BibleText>
+
+:::note
+Note 1: With their vanities...That is, their idols their golden calves, vain, false, deceitful things. 
+:::
+
+      <BibleText verse={27}>Now the rest of the acts of Amri, and the battles he fought, are they not written in the book of the words of the days of the kings of Israel?</BibleText>
+
+
+      <BibleText verse={28}>And Amri slept with his fathers, and was buried in Samaria, and Achab, his son, reigned in his stead.</BibleText>
+
+
+      <BibleText verse={29}>Now Achab, the son of Amri, reigned over Israel in the eight and thirtieth year of Asa, king of Juda. And Achab, the son of Amri, reigned over Israel in Samaria two and twenty years.</BibleText>
+
+
+      <BibleText verse={30}>And Achab, the son of Amri, did evil in the sight of the Lord above all that were before him.</BibleText>
+
+
+      <BibleText verse={31}>Nor was it enough for him to walk in the sins of Jeroboam, the son of Nabat: but he also took to wife Jezabel, daughter of Ethbaal, king of the Sidonians. And he went, and served Baal, and adored him.</BibleText>
+
+
+      <BibleText verse={32}>And he set up an altar for Baal, in the temple of Baal, which he had built in Samaria;</BibleText>
+
+
+      <BibleText verse={33}>And he planted a grove: and Achab did more to provoke the Lord, the God of Israel, than all the kings of Israel that were before him.</BibleText>
+
+
+      <BibleText verse={34}>In his days Hiel, of Bethel, built Jericho: in Abiram, his firstborn, he laid its foundations: and in his youngest son, Segub, he set up the gates thereof: according to the word of the Lord, which he spoke in the hand of Josue, the son of Nun.</BibleText>
+

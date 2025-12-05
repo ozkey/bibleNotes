@@ -1,0 +1,118 @@
+---
+sidebar_position: 16
+slug: /bible/Proverbs/Proverbs_16
+title: Proverbs 16
+hide_table_of_contents: true
+---
+
+# Proverbs 
+
+## Chapter 16
+
+
+undefined
+
+
+
+
+      <BibleText verse={1}>It is the part of man to prepare the soul: and of the Lord to govern the tongue.</BibleText>
+
+:::note
+Note 1: It is the part of man, etc...That is, a man should prepare in his heart and soul what he is to say: but after all, it must be the Lord that must govern his tongue, to speak to the purpose. Not that we can think any thing of good without God's grace; but that after we have (with God's grace) thought and prepared within our souls what we would speak, if God does not govern our tongue, we shall not succeed in what we speak. 
+:::
+
+      <BibleText verse={2}>All the ways of a man are open to his eyes: the Lord is the weigher of spirits.</BibleText>
+
+
+      <BibleText verse={3}>Lay open thy works to the Lord: and thy thoughts shall be directed.</BibleText>
+
+
+      <BibleText verse={4}>The Lord hath made all things for himself: the wicked also for the evil day.</BibleText>
+
+
+      <BibleText verse={5}>Every proud man is an abomination to the Lord: though hand should be joined to hand, he is not innocent. The beginning of a good way is to do justice: and this is more acceptable with God, than to offer sacrifices.</BibleText>
+
+
+      <BibleText verse={6}>By mercy and truth iniquity is redeemed; and by the fear of the Lord men depart from evil.</BibleText>
+
+
+      <BibleText verse={7}>When the ways of man shall please the Lord, he will convert even his enemies to peace.</BibleText>
+
+
+      <BibleText verse={8}>Better is a little with justice, than great revenues with iniquity.</BibleText>
+
+
+      <BibleText verse={9}>The heart of man disposeth his way: but the Lord must direct his steps.</BibleText>
+
+
+      <BibleText verse={10}>Divination is in the lips of the king, his mouth shall not err in judgment.</BibleText>
+
+
+      <BibleText verse={11}>Weight and balance are judgments of the Lord: and his work all the weights of the bag.</BibleText>
+
+
+      <BibleText verse={12}>They that act wickedly are abominable to the king: for the throne is established by justice.</BibleText>
+
+
+      <BibleText verse={13}>Just lips are the delight of kings: he that speaketh right things shall be loved.</BibleText>
+
+
+      <BibleText verse={14}>The wrath of a king is as messengers of death: and the wise man will pacify it.</BibleText>
+
+
+      <BibleText verse={15}>In the cheerfulness of the king's countenance is life: and his clemency is like the latter rain.</BibleText>
+
+
+      <BibleText verse={16}>Get wisdom, because it is better than gold: and purchase prudence, for it is more precious than silver.</BibleText>
+
+
+      <BibleText verse={17}>The path of the just departeth from evils: he that keepeth his soul keepeth his way.</BibleText>
+
+
+      <BibleText verse={18}>Pride goeth before destruction: and the spirit is lifted up before a fall.</BibleText>
+
+
+      <BibleText verse={19}>It is better to be humbled with the meek, than to divide spoils with the proud.</BibleText>
+
+
+      <BibleText verse={20}>The learned in word shall find good things: and he that trusteth in the Lord is blessed.</BibleText>
+
+
+      <BibleText verse={21}>The wise in heart shall be called prudent: and he that is sweet in words, shall attain to greater things.</BibleText>
+
+
+      <BibleText verse={22}>Knowledge is a fountain of life to him that possesseth it: the instruction of fools is foolishness.</BibleText>
+
+
+      <BibleText verse={23}>The heart of the wise shall instruct his mouth: and shall add grace to his lips.</BibleText>
+
+
+      <BibleText verse={24}>Well ordered words are as a honeycomb: sweet to the soul, and health to the bones.</BibleText>
+
+
+      <BibleText verse={25}>There is a way that seemeth to a man right: and the ends thereof lead to death.</BibleText>
+
+
+      <BibleText verse={26}>The soul of him that laboureth, laboureth for himself, because his mouth hath obliged him to it.</BibleText>
+
+
+      <BibleText verse={27}>The wicked man diggeth evil, and in his lips is a burning fire.</BibleText>
+
+
+      <BibleText verse={28}>A perverse man stirreth up quarrels: and one full of words separateth princes.</BibleText>
+
+
+      <BibleText verse={29}>An unjust man allureth his friend: and leadeth him into a way that is not good.</BibleText>
+
+
+      <BibleText verse={30}>He that with fixed eyes deviseth wicked things, biting his lips, bringeth evil to pass.</BibleText>
+
+
+      <BibleText verse={31}>Old age is a crown of dignity, when it is found in the ways of justice.</BibleText>
+
+
+      <BibleText verse={32}>The patient man is better than the valiant: and he that ruleth his spirit, than he that taketh cities.</BibleText>
+
+
+      <BibleText verse={33}>Lots are cast into the lap, but they are disposed of by the Lord.</BibleText>
+

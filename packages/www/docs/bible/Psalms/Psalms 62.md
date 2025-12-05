@@ -1,0 +1,52 @@
+---
+sidebar_position: 62
+slug: /bible/Psalms/Psalms_62
+title: Psalms 62
+hide_table_of_contents: true
+---
+
+# Psalms 
+
+## Chapter 62
+
+
+Deus Deus meus, ad te. The prophet aspireth after God.
+
+
+
+
+      <BibleText verse={1}>A psalm of David while he was in the desert of Edom.</BibleText>
+
+
+      <BibleText verse={2}>O God, my God, to thee do I watch at break of day. For thee my soul hath thirsted; for thee my flesh, O how many ways!</BibleText>
+
+
+      <BibleText verse={3}>In a desert land, and where there is no way, and no water: so in the sanctuary have I come before thee, to see thy power and thy glory.</BibleText>
+
+
+      <BibleText verse={4}>For thy mercy is better than lives: thee my lips will praise.</BibleText>
+
+
+      <BibleText verse={5}>Thus will I bless thee all my life long: and in thy name I will lift up my hands.</BibleText>
+
+
+      <BibleText verse={6}>Let my soul be filled as with marrow and fatness: and my mouth shall praise thee with joyful lips.</BibleText>
+
+
+      <BibleText verse={7}>If I have remembered thee upon my bed, I will meditate on thee in the morning:</BibleText>
+
+
+      <BibleText verse={8}>Because thou hast been my helper. And I will rejoice under the covert of thy wings:</BibleText>
+
+
+      <BibleText verse={9}>My soul hath stuck close to thee: thy right hand hath received me.</BibleText>
+
+
+      <BibleText verse={10}>But they have fought my soul in vain, they shall go into the lower parts of the earth:</BibleText>
+
+
+      <BibleText verse={11}>They shall be delivered into the hands of the sword, they shall be the portions of foxes.</BibleText>
+
+
+      <BibleText verse={12}>But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things.</BibleText>
+

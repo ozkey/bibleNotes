@@ -1,0 +1,11 @@
+---
+sidebar_position: 67
+---
+  
+# 1 Peter
+ 
+## First Epistle of St. Peter the Apostle
+ 
+<BibleChapterIntro book={67}>
+The first Epistle of St. Peter, though brief, contains much doctrine concerning Faith, Hope, and Charity, with divers instructions to all persons of what state or condition soever.  The Apostle commands submission to rulers and superiors and exhorts all to the practice of a virtuous life in imitation, of Christ.  This Epistle is written with such apostolical dignity as to manifest the supreme authority with which its writer, the Prince of the Apostles, had been vested by his Lord and Master, Jesus Christ.  He wrote it at Rome, which figuratively he calls Babylon, about fifteen years after our Lord's Ascension.
+</BibleChapterIntro>

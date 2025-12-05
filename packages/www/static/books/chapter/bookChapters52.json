@@ -1,0 +1,89 @@
+{
+    "booknumber": 52,
+    "shortname": "Romans",
+    "contentsname": "Epistle of St. Paul to the Romans",
+    "bookname": "THE EPISTLE OF ST. PAUL THE APOSTLE TO THE ROMANS",
+    "bookdesc": "St. Paul wrote this epistle at Corinth, when he was preparing to go to Jerusalem with the charitable contributions collected in Achaia and Macedonia for the relief of the Christians in Judea; which was about twenty-four years after Our Lord's Ascension.  It was written in Greek; but at the same time translated into Latin, for the benefit of those who did not understand that language.  And though it is not the first of his Epistles in the order of time, yet it is first placed on account of sublimity of the matter contained in it, of the preeminence of the place to which it was sent, and in veneration of the Church.",
+    "chapters": [
+        {
+            "chaptername": "Romans Chapter 1",
+            "chapterdesc": "He commends the faith of the Romans, whom he longs to see.  The philosophy of the heathens, being void of faith and humility, betrayed them into shameful sins.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Romans Chapter 2",
+            "chapterdesc": "The Jews are censured, who make their boast of the law and keep it not. He declares who are the true Jews.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Romans Chapter 3",
+            "chapterdesc": "The advantages of the Jews.  All men are sinners and none can be justified by the works of the law, but only by the grace of Christ.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Romans Chapter 4",
+            "chapterdesc": "Abraham was not justified by works done, as of himself, but by grace and by faith.  And that before he was circumcised.  Gentiles, by faith, are his children.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Romans Chapter 5",
+            "chapterdesc": "The grounds we have for hope in Christ.  Sin and death came by Adam, grace and life by Christ.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Romans Chapter 6",
+            "chapterdesc": "The Christian must die to sin and live to God.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Romans Chapter 7",
+            "chapterdesc": "We are released by Christ from the law and from the guilt of sin, though the inclination to it still tempts us.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Romans Chapter 8",
+            "chapterdesc": "There is no condemnation to them that, being justified by Christ, walk not according to the flesh, but according to the spirit.  Their strong hope and love of God.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Romans Chapter 9",
+            "chapterdesc": "The apostle's concern for the Jews.  God's election is free and not confined to their nation.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Romans Chapter 10",
+            "chapterdesc": "The end of the law is faith in Christ.  which the Jews refusing to submit to, cannot be justified.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Romans Chapter 11",
+            "chapterdesc": "God hath not cast off all Israel.  The Gentiles must not be proud but stand in faith and fear.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Romans Chapter 12",
+            "chapterdesc": "Lessons of Christian virtues.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Romans Chapter 13",
+            "chapterdesc": "Lessons of obedience to superiors and mutual charity.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Romans Chapter 14",
+            "chapterdesc": "The strong must bear with the weak.  Cautions against judging and giving scandal.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Romans Chapter 15",
+            "chapterdesc": "He exhorts them to be all of one mind and promises to come and see them.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Romans Chapter 16",
+            "chapterdesc": "He concludes with salutations, bidding them beware of all that should oppose the doctrine they had learned.",
+            "chapternumber": 16
+        }
+    ]
+}

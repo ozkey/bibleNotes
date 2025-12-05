@@ -1,0 +1,121 @@
+---
+sidebar_position: 18
+slug: /bible/Numbers/Numbers_18
+title: Numbers 18
+hide_table_of_contents: true
+---
+
+# Numbers 
+
+## Chapter 18
+
+
+The charge of the priests and of the Levites, and their portion.
+
+
+
+
+      <BibleText verse={1}>And the Lord said to Aaron: Thou, and thy sons, and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the sins of your priesthood. Thou, and thy father's house with thee, shall bear the iniquity of the</BibleText>
+
+:::note
+Note 1: sanctuary...That is, you shall be punished if, through negligence or want of due attention, you err in the discharge of the sacred functions for which you were ordained. 
+:::
+
+      <BibleText verse={2}>And take with thee thy brethren also of the tribe of Levi, and the sceptre of thy father, and let them be ready in hand, and minister to thee: but thou and thy sons shall minister in the tabernacle of the testimony.</BibleText>
+
+
+      <BibleText verse={3}>And the Levites shall watch to do thy commands, and about all the works of the tabernacle: only they shall not come nigh the vessels of the sanctuary nor the altar, lest both they die, and you also perish with them.</BibleText>
+
+
+      <BibleText verse={4}>But let them be with thee, and watch in the charge of the tabernacle, and in all the ceremonies thereof. A stranger shall not join himself with you.</BibleText>
+
+
+      <BibleText verse={5}>Watch ye in the charge of the sanctuary, and in the ministry of the altar: lest indignation rise upon the children of Israel.</BibleText>
+
+
+      <BibleText verse={6}>I have given you your brethren the Levites from among the children of Israel, and have delivered them for a gift to the Lord, to serve in the ministries of the tabernacle.</BibleText>
+
+
+      <BibleText verse={7}>But thou and thy sons look ye to the priesthood: and all things that pertain to the service of the altar, and that are within the veil, shall be executed by the priests. If any stranger shall approach, he shall be slain.</BibleText>
+
+
+      <BibleText verse={8}>And the Lord said to Aaron: Behold I have given thee the charge of my firstfruits. All things that are sanctified by the children of Israel, I have delivered to thee and to thy sons for the priestly office, by everlasting ordinances.</BibleText>
+
+
+      <BibleText verse={9}>These therefore shalt thou take of the things that are sanctified, and are offered to the Lord. Every offering, and sacrifice, and whatsoever is rendered to me for sin and for trespass, and becometh holy of holies, shall be for thee and thy sons.</BibleText>
+
+
+      <BibleText verse={10}>Thou shalt eat it in the sanctuary: the males only shall eat thereof, because it is a consecrated thing to thee.</BibleText>
+
+
+      <BibleText verse={11}>But the firstfruits, which the children of Israel shall vow and offer, I have given to thee, and to thy sons, and to thy daughters, by a perpetual law. He that is clean in thy house, shall eat them.</BibleText>
+
+
+      <BibleText verse={12}>All the best of the oil, and of the wine, and of the corn, whatsoever firstfruits they offer to the Lord, I have given them to thee.</BibleText>
+
+
+      <BibleText verse={13}>All the firstripe of the fruits, that the ground bringeth forth, and which are brought to the Lord, shall be for thy use: he that is clean in thy house, shall eat them.</BibleText>
+
+
+      <BibleText verse={14}>Every thing that the children of Israel shall give by vow, shall be thine.</BibleText>
+
+
+      <BibleText verse={15}>Whatsoever is firstborn of all flesh, which they offer to the Lord, whether it be of men, or of beasts, shall belong to thee: only for the firstborn of man thou shalt take a price, and every beast that is unclean thou shalt cause to be redeemed,</BibleText>
+
+
+      <BibleText verse={16}>And the redemption of it shall be after one month, for five sicles of silver, by the weight of the sanctuary. A sicle hath twenty obols.</BibleText>
+
+
+      <BibleText verse={17}>But the firstling of a cow, and of a sheep and of a goat thou shalt not cause to be redeemed, because they are sanctified to the Lord. Their blood only thou shalt pour upon the altar, and their fat thou shalt burn for a most sweet odour to the Lord.</BibleText>
+
+
+      <BibleText verse={18}>But the flesh shall fall to thy use, as the consecrated breast, and the right shoulder shall be thine.</BibleText>
+
+
+      <BibleText verse={19}>All the firstfruits of the sanctuary which the children of Israel offer to the Lord, I have given to thee and to thy sons and daughters, by a perpetual ordinance. It is a covenant of salt for ever before the Lord, to thee and to thy sons.</BibleText>
+
+:::note
+Note 1: A covenant of salt...It is a proverbial expression, signifying a covenant not to be altered or corrupted; as salt is used to keep things from corruption; a covenant perpetual, like that by which it was appointed, that salt should be used in every sacrifice. Lev. 2. 
+:::
+
+      <BibleText verse={20}>And the Lord said to Aaron: You shall possess nothing in their land, neither shall you have a portion among them: I am thy portion and inheritance in the midst of the children of Israel.</BibleText>
+
+
+      <BibleText verse={21}>And I have given to the sons of Levi all the tithes of Israel for a possession, for the ministry wherewith they serve me in the tabernacle of the covenant:</BibleText>
+
+
+      <BibleText verse={22}>That the children of Israel may not approach any more to the tabernacle, nor commit deadly sin,</BibleText>
+
+:::note
+Note 1: Deadly sin...That is, sin which will bring death after it. 
+:::
+
+      <BibleText verse={23}>But only the sons of Levi may serve me in the tabernacle, and bear the sins of the people. It shall be an everlasting ordinance in your generations. They shall not possess any other thing,</BibleText>
+
+
+      <BibleText verse={24}>But be content with the oblation or tithes, which I have separated for their uses and necessities.</BibleText>
+
+
+      <BibleText verse={25}>And the Lord spoke to Moses, saying:</BibleText>
+
+
+      <BibleText verse={26}>Command the Levites, and declare unto them: When you shall receive of the children of Israel the tithes, which I have given you, offer the firstfruits of them to the Lord, that is to say, the tenth part of the tenth:</BibleText>
+
+
+      <BibleText verse={27}>That it may be reckoned to you as an oblation of firstfruits, as well of the barnfloors as of the winepresses:</BibleText>
+
+
+      <BibleText verse={28}>And of all the things of which you receive tithes, offer the firstfruits to the Lord, and give them to Aaron the priest.</BibleText>
+
+
+      <BibleText verse={29}>All the things that you shall offer of the tithes, and shall separate for the gifts of the Lord, shall be the best and choicest things.</BibleText>
+
+
+      <BibleText verse={30}>And thou shalt say to them: If you offer all the goodly and the better things of the tithes, it shall be reckoned to you as if you had given the firstfruits of the barnfloor and the winepress:</BibleText>
+
+
+      <BibleText verse={31}>And you shall eat them in all your places, both you and your families: because it is your reward for the ministry, wherewith you serve in the tabernacle of the testimony.</BibleText>
+
+
+      <BibleText verse={32}>And you shall not sin in this point, by reserving the choicest and fat things to yourselves, lest you profane the oblations of the children of Israel, and die.</BibleText>
+

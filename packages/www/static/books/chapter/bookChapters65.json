@@ -1,0 +1,74 @@
+{
+    "booknumber": 65,
+    "shortname": "Hebrews",
+    "contentsname": "Epistle of St. Paul to the Hebrews",
+    "bookname": "THE EPISTLE OF ST. PAUL TO THE HEBREWS",
+    "bookdesc": "St. Paul wrote this Epistle to the Christians in Palestine, the most part of whom being Jews before their conversion, they were called Hebrews.  He exhorts them to be thoroughly converted and confirmed in the faith of Christ, clearly shewing them the preeminence of Christ's priesthood above the Levitical, and also the excellence of the new law above the old.  He commends faith by the example of the ancient fathers: and exhorts them to patience and perseverance and to remain in fraternal charity.  It appears from chap. 13 that this Epistle was written in Italy, and probably at Rome, about twenty-nine years after our Lord's Ascension.",
+    "chapters": [
+        {
+            "chaptername": "Hebrews Chapter 1",
+            "chapterdesc": "God spoke of old by the prophets, but now by his Son, who is incomparably greater than the angels.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Hebrews Chapter 2",
+            "chapterdesc": "The transgression of the precepts of the Son of God is far more condemnable than of those of the Old Testament given by angels.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Hebrews Chapter 3",
+            "chapterdesc": "Christ is more excellent than Moses.  Wherefore we must adhere to him by faith and obedience.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Hebrews Chapter 4",
+            "chapterdesc": "The Christian's rest.  We are to enter into it through Jesus Christ.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Hebrews Chapter 5",
+            "chapterdesc": "The office of a high priest.  Christ is our high priest.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Hebrews Chapter 6",
+            "chapterdesc": "He warns them of the danger of falling by apostasy and exhorts them to patience and perseverance.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Hebrews Chapter 7",
+            "chapterdesc": "The priesthood of Christ according to the order of Melchisedech excels the Levitical priesthood and puts an end both to that and to the law.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Hebrews Chapter 8",
+            "chapterdesc": "More of the excellence of the priesthood of Christ and of the New Testament.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Hebrews Chapter 9",
+            "chapterdesc": "The sacrifices of the law were far inferior to that of Christ.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Hebrews Chapter 10",
+            "chapterdesc": "Because of the insufficiency of the sacrifices of the law, Christ our high priest shed his own blood for us, offering up once for all the sacrifice of our redemption.  He exhorts them to perseverance.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Hebrews Chapter 11",
+            "chapterdesc": "What faith is.  Its wonderful fruits and efficacy demonstrated in the fathers.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Hebrews Chapter 12",
+            "chapterdesc": "Exhortation to constancy under their crosses.  The danger of abusing the graces of the New Testament.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Hebrews Chapter 13",
+            "chapterdesc": "Divers admonitions and exhortations.",
+            "chapternumber": 13
+        }
+    ]
+}

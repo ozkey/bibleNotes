@@ -1,0 +1,106 @@
+---
+sidebar_position: 10
+slug: /bible/Exodus/Exodus_10
+title: Exodus 10
+hide_table_of_contents: true
+---
+
+# Exodus 
+
+## Chapter 10
+
+
+The eighth plague of the locusts.  The ninth, of darkness:  Pharao is still hardened.
+
+
+
+
+      <BibleText verse={1}>And the Lord said to Moses: Go in to Pharao; for I have hardened his heart, and the heart of his servants: that I may work these my signs in him,</BibleText>
+
+
+      <BibleText verse={2}>And thou mayst tell in the ears of thy sons, and of thy grandsons, how often I have plagued the Egyptians, and wrought my signs amongst them: and you may know that I am the Lord.</BibleText>
+
+
+      <BibleText verse={3}>Therefore Moses and Aaron went in to Pharao, and said to him: Thus saith the Lord God of the Hebrews: How long refusest thou to submit to me? let my people go, to sacrifice to me.</BibleText>
+
+
+      <BibleText verse={4}>But if thou resist, and wilt not let them go, behold I will bring in to-morrow the locusts into thy coasts;</BibleText>
+
+
+      <BibleText verse={5}>To cover the face of the earth, that nothing thereof may appear, but that which the hail hath left may be eaten: for they shall feed upon all the trees that spring in the fields.</BibleText>
+
+
+      <BibleText verse={6}>And they shall fill thy houses, and the houses of thy servants, and of all the Egyptians: such a number as thy fathers have not seen, nor thy grandfathers, from the time they were first upon the earth, until this present day. And he turned himself away, and went forth from Pharao.</BibleText>
+
+
+      <BibleText verse={7}>And Pharao's servants said to him: How long shall we endure this scandal? Iet the men go to sacrifice to the Lord their God. Dost thou not see that Egypt is undone?</BibleText>
+
+
+      <BibleText verse={8}>And they called back Moses, and Aaron, to Pharao; and he said to them: Go, sacrifice to the Lord your God: who are they that shall go?</BibleText>
+
+
+      <BibleText verse={9}>Moses said: We will go with our young and old, with our sons and daughters, with our sheep and herds: for it is the solemnity of the Lord our God.</BibleText>
+
+
+      <BibleText verse={10}>And Pharao answered: So be the Lord with you, as I shall let you and your children go: who can doubt but that you intend some great evil?</BibleText>
+
+
+      <BibleText verse={11}>It shall not be so. but go ye men only, and sacrifice to the Lord: for this yourselves also desired. And immediately they were cast out from Pharao's presence.</BibleText>
+
+
+      <BibleText verse={12}>And the Lord said to Moses: Stretch forth thy hand upon the land of Egypt unto the locust, that it come upon it, and devour every herb that is left after the hail.</BibleText>
+
+
+      <BibleText verse={13}>And Moses stretched forth his rod upon the land of Egypt: and the Lord brought a burning wind all that day, and night; and when it was morning, the burning wind raised the locusts.</BibleText>
+
+
+      <BibleText verse={14}>And they came up over the whole land of Egypt; and rested in all the coasts of the Egyptians, innumerable, the like as had not been before that time, nor shall be hereafter.</BibleText>
+
+
+      <BibleText verse={15}>And they covered the whole face of the earth, wasting all things. And the grass of the earth was devoured, and what fruits soever were on the trees, which the hail had left; and there remained not any thing that was green on the trees, or in the herbs of the earth, in all Egypt.</BibleText>
+
+
+      <BibleText verse={16}>Wherefore Pharao in haste called Moses and Aaron, and said to them: I have sinned against the Lord your God, and against you.</BibleText>
+
+
+      <BibleText verse={17}>But now forgive me my sin this time also, and pray to the Lord your God, that he take away from me this death.</BibleText>
+
+
+      <BibleText verse={18}> And Moses going forth from the presence of Pharao, prayed to the Lord:</BibleText>
+
+
+      <BibleText verse={19}>And he made a very strong wind to blow from the west, and it took the locusts and cast them into the Red Sea: there remained not so much as one in all the coasts of Egypt.</BibleText>
+
+
+      <BibleText verse={20}>And the Lord hardened Pharao's heart, neither did he let the children of Israel go.</BibleText>
+
+
+      <BibleText verse={21}>And the Lord said to Moses: Stretch out thy hand towards heaven: and may there be darkness upon the land of Egypt so thick that it may be felt.</BibleText>
+
+:::note
+Note 1: Darkness upon the land of Egypt, so thick that it may be felt...By means of the gross exhalations, which were to cause and accompany the darkness. 
+:::
+
+      <BibleText verse={22}>And Moses stretched forth his hand towards heaven: and there came horrible darkness in all the land of Egypt for three days.</BibleText>
+
+
+      <BibleText verse={23}>No man saw his brother, nor moved himself out of the place where he was: but wheresoever the children of Israel dwelt, there was light.</BibleText>
+
+
+      <BibleText verse={24}>And Pharao called Moses and Aaron, and said to them: Go, sacrifice to the Lord: let your sheep only, and herds remain, let your children go with you.</BibleText>
+
+
+      <BibleText verse={25}>Moses said: Thou shalt give us also sacrifices and burnt-offerings, to the Lord our God.</BibleText>
+
+
+      <BibleText verse={26}>All the flocks shall go with us; there shall not a hoof remain of them: for they are necessary for the service of the Lord our God: especially as we know not what must be offered, till we come to the very place.</BibleText>
+
+
+      <BibleText verse={27}>And the Lord hardened Pharao's heart, and he would not let them go.</BibleText>
+
+
+      <BibleText verse={28}>And Pharao said to Moses: Get thee from me, and beware thou see not my face any more: in what day soever thou shalt come in my sight, thou shalt die.</BibleText>
+
+
+      <BibleText verse={29}>Moses answered: So shall it be as thou hast spoken, I will not see thy face anymore.</BibleText>
+

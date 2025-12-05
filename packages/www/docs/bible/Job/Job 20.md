@@ -1,0 +1,106 @@
+---
+sidebar_position: 20
+slug: /bible/Job/Job_20
+title: Job 20
+hide_table_of_contents: true
+---
+
+# Job 
+
+## Chapter 20
+
+
+Sophar declares the shortness of the prosperity of the wicked:  and their sudden downfall.
+
+
+
+
+      <BibleText verse={1}>Then Sophar the Naamathite answered, and said:</BibleText>
+
+
+      <BibleText verse={2}>Therefore various thoughts succeed one another in me, and my mind is hurried away to different things.</BibleText>
+
+
+      <BibleText verse={3}>The doctrine with which thou reprovest me, I will hear, and the spirit of my understanding shall answer for me.</BibleText>
+
+
+      <BibleText verse={4}>This I know from the beginning, since man was placed upon the earth,</BibleText>
+
+
+      <BibleText verse={5}>That the praise of the wicked is short, and the joy of the hypocrite but for a moment.</BibleText>
+
+
+      <BibleText verse={6}>If his pride mount up even to heaven, and his head touch the clouds:</BibleText>
+
+
+      <BibleText verse={7}>In the end he shall be destroyed like a dunghill, and they that had seen him, shall say: Where is he?</BibleText>
+
+
+      <BibleText verse={8}>As a dream that fleeth away he shall not be found, he shall pass as a vision of the night:</BibleText>
+
+
+      <BibleText verse={9}>The eyes that had seen him, shall see him no more, neither shall his place any more behold him.</BibleText>
+
+
+      <BibleText verse={10}>His children shall be oppressed with want, and his hands shall render to him his sorrow.</BibleText>
+
+
+      <BibleText verse={11}>His bones shall be filled with the vices of his youth, and they shall sleep with him in the dust.</BibleText>
+
+
+      <BibleText verse={12}>For when evil shall be sweet in his mouth, he will hide it under his tongue.</BibleText>
+
+
+      <BibleText verse={13}>He will spare it, and not leave it, and will hide it in his throat.</BibleText>
+
+
+      <BibleText verse={14}>His bread in his belly shall be turned into the gall of asps within him,</BibleText>
+
+
+      <BibleText verse={15}>The riches which he hath swallowed, he shall vomit up, and God shall draw them out of his belly.</BibleText>
+
+
+      <BibleText verse={16}>He shall suck the head of asps, and the viper's tongue shall kill him.</BibleText>
+
+
+      <BibleText verse={17}>Let him not see the streams of the river, the brooks of honey and of butter.</BibleText>
+
+
+      <BibleText verse={18}>He shall be punished for all that he did, and yet shall not be consumed: according to the multitude of his devices so also shall he suffer.</BibleText>
+
+:::note
+Note 1: According to the multitude of his devices...That is, his stratagems to gratify his passions and to oppress and destroy the poor. 
+:::
+
+      <BibleText verse={19}>Because he broke in and stripped the poor: he hath violently taken away a house which he did not build.</BibleText>
+
+
+      <BibleText verse={20}>And yet his belly was not filled: and when he hath the things he coveted, he shall not be able to possess them.</BibleText>
+
+
+      <BibleText verse={21}>There was nothing left of his meat, and therefore nothing shall continue of his goods:</BibleText>
+
+
+      <BibleText verse={22}>When he shall be filled, he shall be straitened, he shall burn, and every sorrow shall fall upon him.</BibleText>
+
+
+      <BibleText verse={23}>May his belly be filled, that God may send forth the wrath of his indignation upon him, and rain down his war upon him.</BibleText>
+
+
+      <BibleText verse={24}>He shall flee from weapons of iron, and shall fall upon a bow of brass.</BibleText>
+
+
+      <BibleText verse={25}>The sword is drawn out, and cometh forth from its scabbard, and glittereth in his bitterness: the terrible ones shall go and come upon him.</BibleText>
+
+
+      <BibleText verse={26}>All darkness is hid in his secret places: a fire that is not kindled shall devour him, he shall be afflicted when left in his tabernacle.</BibleText>
+
+
+      <BibleText verse={27}>The heavens shall reveal his iniquity, and the earth shall rise up against him.</BibleText>
+
+
+      <BibleText verse={28}>The offspring of his house shall be exposed, he shall be pulled down in the day of God's wrath.</BibleText>
+
+
+      <BibleText verse={29}>This is the portion of a wicked man from God, and the inheritance of his doings from the Lord.</BibleText>
+

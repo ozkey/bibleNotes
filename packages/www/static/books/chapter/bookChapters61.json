@@ -1,0 +1,39 @@
+{
+    "booknumber": 61,
+    "shortname": "1 Timothy",
+    "contentsname": "First Epistle of St. Paul to Timothy",
+    "bookname": "THE FIRST EPISTLE OF ST. PAUL TO TIMOTHY",
+    "bookdesc": "St. Paul write this Epistle to his BELOVED TIMOTHY, being then bishop of Ephesus, to instruct him in the duties of a bishop, both in respect to himself and to his charge; and that he ought to be well informed of the good morals of those on whom he was to impose hands:  Impose not hands lightly upon any man.  He tells him also how he should behave towards his clergy.  The Epistle was written about 33 years after our Lord's Ascension; but where it was written is uncertain:  the more general opinion is, that it was in Macedonia.",
+    "chapters": [
+        {
+            "chaptername": "1 Timothy Chapter 1",
+            "chapterdesc": "He puts Timothy in mind of his charge and blesses God for the mercy he himself had received.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "1 Timothy Chapter 2",
+            "chapterdesc": "Prayers are to be said for all men, because God wills the salvation of all.  Women are not to teach.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "1 Timothy Chapter 3",
+            "chapterdesc": "What sort of men are to be admitted into the clergy.  The church is the pillar of truth.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "1 Timothy Chapter 4",
+            "chapterdesc": "He warns him against heretics, and exhorts him to the exercise of piety.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "1 Timothy Chapter 5",
+            "chapterdesc": "He gives him lessons concerning widows, and how he is to behave to his clergy.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "1 Timothy Chapter 6",
+            "chapterdesc": "Duties of servants.  The danger of covetousness.  Lessons for the rich.",
+            "chapternumber": 6
+        }
+    ]
+}

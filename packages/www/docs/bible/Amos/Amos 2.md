@@ -1,0 +1,67 @@
+---
+sidebar_position: 2
+slug: /bible/Amos/Amos_2
+title: Amos 2
+hide_table_of_contents: true
+---
+
+# Amos 
+
+## Chapter 2
+
+
+The judgments with which God threatens Moab, Juda, and Israel for their sins, and their ingratitude.
+
+
+
+
+      <BibleText verse={1}>Thus saith the Lord: For three crimes of Moab, and for four I will not convert him: because he hath burnt the bones of the king of Edom even to ashes.</BibleText>
+
+
+      <BibleText verse={2}>And I will send a fire into Moab, and it shall devour the houses of Carioth: and Moab shall die with a noise, with the sound of the trumpet:</BibleText>
+
+
+      <BibleText verse={3}>And I will cut off the judge from the midst thereof, and will slay all his princes with him, saith the Lord.</BibleText>
+
+
+      <BibleText verse={4}>Thus saith the Lord: For three crimes of Juda, and for four I will not convert him: because he hath cast away the law of the Lord, and hath not kept his commandments: for their idols have caused them to err, after which their fathers have walked.</BibleText>
+
+
+      <BibleText verse={5}>And I will send a fire into Juda, and it shall devour the houses of Jerusalem.</BibleText>
+
+
+      <BibleText verse={6}>Thus saith the Lord: For three crimes of Israel, and for four I will not convert him: because he hath sold the just man for silver, and the poor man for a pair of shoes.</BibleText>
+
+
+      <BibleText verse={7}>They bruise the heads of the poor upon the dust of the earth, and turn aside the way of the humble: and the son and his father have gone to the same young woman, to profane my holy name.</BibleText>
+
+
+      <BibleText verse={8}>And they sat down upon garments laid to pledge by every altar: and drank the wine of the condemned in the house of their God.</BibleText>
+
+
+      <BibleText verse={9}>Yet I cast out the Amorrhite before their face: whose height was like the height of cedars, and who was strong as an oak: and I destroyed his fruit from above, and his roots beneath.</BibleText>
+
+
+      <BibleText verse={10}>It is I that brought you up out of the land of Egypt, and I led you forty years through the wilderness, that you might possess the land of the Amorrhite.</BibleText>
+
+
+      <BibleText verse={11}>And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not so, O ye children of Israel, saith the Lord?</BibleText>
+
+
+      <BibleText verse={12}>And you will present wine to the Nazarites: and command the prophets, saying: Prophesy not.</BibleText>
+
+
+      <BibleText verse={13}>Behold, I will screak under you as a wain screaketh that is laden with hay.</BibleText>
+
+:::note
+Note 1: I will screak...Unable to bear any longer the enormous load of your sins, etc. The spirit of God, as St. Jerome takes notice, accommodates himself to the education of the prophet and inspires him with comparisons taken from country affairs. 
+:::
+
+      <BibleText verse={14}>And flight shall perish from the swift, and the valiant shall not possess his strength, neither shall the strong save his life.</BibleText>
+
+
+      <BibleText verse={15}>And he that holdeth the bow shall not stand, and the swift of foot shall not escape, neither shall the rider of the horse save his life.</BibleText>
+
+
+      <BibleText verse={16}>And the stout of heart among the valiant shall flee away naked in that day, saith the Lord.</BibleText>
+

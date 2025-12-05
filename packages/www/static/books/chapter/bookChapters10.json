@@ -1,0 +1,129 @@
+{
+    "booknumber": 10,
+    "shortname": "2 Kings",
+    "contentsname": "Second Book of Samuel, alias 2 Kings",
+    "bookname": "THE SECOND BOOK OF SAMUEL, OTHERWISE CALLED THE SECOND BOOK OF KINGS",
+    "bookdesc": "This Book relates the transactions from the death of Saul until the end of David's reign, being a history for the space of about forty-six years.",
+    "chapters": [
+        {
+            "chaptername": "2 Kings Chapter 1",
+            "chapterdesc": "David mourneth for the death of Saul and Jonathan:  he ordereth the man to be slain who pretended he had killed Saul.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "2 Kings Chapter 2",
+            "chapterdesc": "David is received and anointed king of Juda.  Isboseth the son of Saul reigneth over the rest of Israel.  A battle between Abner and Joab.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "2 Kings Chapter 3",
+            "chapterdesc": "David groweth daily stronger.  Abner cometh over to him:  he is treacherously slain by Joab.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "2 Kings Chapter 4",
+            "chapterdesc": "Isboseth is murdered by two of his servants.  David punisheth the murderers.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "2 Kings Chapter 5",
+            "chapterdesc": "David is anointed king of all Israel.  He taketh Jerusalem, and dwelleth there.  He defeateth the Philistines.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "2 Kings Chapter 6",
+            "chapterdesc": "David fetcheth the ark from Cariathiarim.  Oza is struck dead for touching it.  It is deposited in the house of Obededom:  and from thence carried to David's house.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "2 Kings Chapter 7",
+            "chapterdesc": "David's purpose to build a temple is rewarded with the promise of great blessings in his seed:  his prayer and thanksgiving.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "2 Kings Chapter 8",
+            "chapterdesc": "David's victories, and his chief officers.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "2 Kings Chapter 9",
+            "chapterdesc": "David's kindness to Miphiboseth for the sake of his father Jonathan.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "2 Kings Chapter 10",
+            "chapterdesc": "The Ammonites shamefully abuse the ambassadors of David:  they hire the Syrians to the their assistance:  but are overthrown with their allies.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "2 Kings Chapter 11",
+            "chapterdesc": "David falleth into the crime of adultery with Bethsabee:  and not finding other means to conceal it, causeth her husband Urias to be slain.  Then marrieth her, who beareth him a son.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "2 Kings Chapter 12",
+            "chapterdesc": "Nathan's parable.  David confesseth his sin, and is forgiven:  yet so as to be sentenced to most severe temporal punishments.  The death of the child.  The birth of Solomon.  The taking of Rabbath.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "2 Kings Chapter 13",
+            "chapterdesc": "Ammon ravisheth Thamar.  For which Absalom killeth him, and flieth to Gessur.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "2 Kings Chapter 14",
+            "chapterdesc": "Joab procureth Absalom's return, and his admittance to the king's presence.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "2 Kings Chapter 15",
+            "chapterdesc": "Absalom's policy and conspiracy.  David is obliged to flee.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "2 Kings Chapter 16",
+            "chapterdesc": "Siba bringeth provisions to David.  Semei curseth him.  Absalom defileth his father's wives.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "2 Kings Chapter 17",
+            "chapterdesc": "Achitophel's counsel is defeated by Chusai:  who sendeth intelligence to David.  Achitophel hangeth himself.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "2 Kings Chapter 18",
+            "chapterdesc": "Absalom is defeated, and slain by Joab.  David mourneth for him.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "2 Kings Chapter 19",
+            "chapterdesc": "David, at the remonstrances of Joab, ceaseth his mourning.  He is invited back and met by Semei and Miphiboseth:  a strife between the men of Juda and the men of Israel.",
+            "chapternumber": 19
+        },
+        {
+            "chaptername": "2 Kings Chapter 20",
+            "chapterdesc": "Seba's rebellion.  Amasa is slain by Joab.  Abela is besieged, but upon the citizens casting over the wall the head of Seba, Joab departeth with all his army.",
+            "chapternumber": 20
+        },
+        {
+            "chaptername": "2 Kings Chapter 21",
+            "chapterdesc": "A famine of three years, for the sin of Saul against the Gabaonites, at whose desire seven of Saul's race are crucified.  War again with the Philistines.",
+            "chapternumber": 21
+        },
+        {
+            "chaptername": "2 Kings Chapter 22",
+            "chapterdesc": "King David's psalm of thanksgiving for his deliverance from all his enemies.",
+            "chapternumber": 22
+        },
+        {
+            "chaptername": "2 Kings Chapter 23",
+            "chapterdesc": "The last words of David.  A catalogue of his valiant men.",
+            "chapternumber": 23
+        },
+        {
+            "chaptername": "2 Kings Chapter 24",
+            "chapterdesc": "David numbereth the people:  God sendeth a pestilence, which is stopt by David's prayer and sacrifice.",
+            "chapternumber": 24
+        }
+    ]
+}
