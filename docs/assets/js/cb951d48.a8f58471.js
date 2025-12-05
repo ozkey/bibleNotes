@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[30161],{61387:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/bibleNotes/blog/tags/facebook","allTagsPath":"/bibleNotes/blog/tags","count":1,"unlisted":false}')}}]);
