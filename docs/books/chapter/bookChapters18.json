@@ -1,0 +1,89 @@
+{
+    "booknumber": 18,
+    "shortname": "Judith",
+    "contentsname": "Book of Judith",
+    "bookname": "THE BOOK OF JUDITH",
+    "bookdesc": "The sacred writer of this Book is generally believed to be the high priest Eliachim (called also Joachim).  The transactions herein related, most probably happened in his days, and in the reign of Manasses, after his repentance and return from captivity.  It takes its name from that illustrious woman, by whose virtue and fortitude, and armed with prayer, the children of Israel were preserved from the destruction threatened them by Holofernes and his great army.  It finishes with her canticle of thanksgiving to God.",
+    "chapters": [
+        {
+            "chaptername": "Judith Chapter 1",
+            "chapterdesc": "Nabuchodonosor king of the Assyrians overcometh Arphaxad king of the Medes.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Judith Chapter 2",
+            "chapterdesc": "Nabuchodonosor sendeth Holofernes to waste the countries of the west.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Judith Chapter 3",
+            "chapterdesc": "Many submit themselves to Holofernes.  He destroyeth their cities, and their gods, that Nabuchodonosor only might be called God.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Judith Chapter 4",
+            "chapterdesc": "The children of Israel prepare themselves to resist Holofernes.  They cry to the Lord for help.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Judith Chapter 5",
+            "chapterdesc": "Achior gives Holofernes an account of the people of Israel.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Judith Chapter 6",
+            "chapterdesc": "Holofernes in great rage sendeth Achior to Bethulia, there to be slain with the Israelites.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Judith Chapter 7",
+            "chapterdesc": "Holofernes besiegeth Bethulia.  The distress of the besieged.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Judith Chapter 8",
+            "chapterdesc": "The character of Judith:  her discourse to the ancients.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Judith Chapter 9",
+            "chapterdesc": "Judith's prayer, to beg of God to fortify her in her undertaking.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Judith Chapter 10",
+            "chapterdesc": "Judith goeth out towards the camp, and is taken, and brought to Holofernes.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Judith Chapter 11",
+            "chapterdesc": "Judith's speech to Holofernes.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Judith Chapter 12",
+            "chapterdesc": "Judith goeth out in the night to pray:  she is invited to a banquet with Holofernes.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Judith Chapter 13",
+            "chapterdesc": "Judith cutteth off the head of Holofernes, and returneth to Bethulia.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Judith Chapter 14",
+            "chapterdesc": "The Israelites assault the Assyrians, who finding their general slain, are seized with a panic fear.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Judith Chapter 15",
+            "chapterdesc": "The Assyrians flee:  the Hebrews pursue after them, and are enriched by their spoils.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Judith Chapter 16",
+            "chapterdesc": "The canticle of Judith:  her virtuous life and death.",
+            "chapternumber": 16
+        }
+    ]
+}

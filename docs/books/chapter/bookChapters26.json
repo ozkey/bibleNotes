@@ -1,0 +1,264 @@
+{
+    "booknumber": 26,
+    "shortname": "Ecclesiasticus",
+    "contentsname": "Ecclesiasticus",
+    "bookname": "ECCLESIASTICUS",
+    "bookdesc": "This Book is so called from a Greek word that signifies a preacher: because, like an excellent preacher, it gives admirable lessons of all virtues.  The author was Jesus the son of Sirach of Jerusalem, who flourished about two hundred years before Christ.  As it was written after the time of Esdras, it is not in the Jewish canon; but is received as canonical and divine by the Catholic Church, instructed by apostolical tradition, and directed by the spirit of God.  It was first written in the Hebrew, but afterwards translated into Greek, by another Jesus, the grandson of the author, whose prologue to this book is the following: THE PROLOGUE. The knowledge of many and great things hath been shewn us by the law, and the prophets, and others that have followed them:  for which things Israel is to be commended for doctrine and wisdom, because not only they that speak must needs be skilful, but strangers also, both speaking and writing, may by their means become most learned.  My grandfather Jesus, after he had much given himself to a diligent reading of the law, and the prophets, and other books, that were delivered to us from our fathers, had a mind also to write something himself, pertaining to doctrine and wisdom; that such as are desirous to learn, and are made knowing in these things, may be more and more attentive in mind, and be strengthened to live according to the law.  I entreat you therefore to come with benevolence, and to read with attention, and to pardon us for those things wherein we may seem, while we follow the image of wisdom, to come short in the composition of words; for the Hebrew words have not the same force in them when translated into another tongue.  And not only these, but the law also itself, and the prophets, and the rest of the books, have no small difference, when they are spoken in their own language.  For in the eight and thirtieth year coming into Egypt, when Ptolemy Evergetes was king, and continuing there a long time, I found there books left, of no small nor contemptible learning.  Therefore I thought it good, and necessary for me to bestow some diligence and labour to interpret this book; and with much watching and study in some space of time, I brought the book to an end, and set it forth for the service of them that are willing to apply their mind, and to learn how they ought to conduct themselves, who purpose to lead their life according to the law of the Lord.",
+    "chapters": [
+        {
+            "chaptername": "Ecclesiasticus Chapter 1",
+            "chapterdesc": "All wisdom is from God, and is given to them that fear and love God.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 2",
+            "chapterdesc": "God's servants must look for temptations:  and must arm themselves with patience and confidence in God.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 3",
+            "chapterdesc": "Lessons concerning the honour of parents, and humility, and avoiding curiosity.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 4",
+            "chapterdesc": "An exhortation to works of mercy, and to the love of wisdom.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 5",
+            "chapterdesc": "We must not presume of our wealth or strength:  nor of the mercy of God, to go on in sin:  we must be steadfast in virtue and truth.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 6",
+            "chapterdesc": "Of true and false friends:  and of the of the fruits of wisdom.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 7",
+            "chapterdesc": "Religious and moral duties.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 8",
+            "chapterdesc": "Other lessons of wisdom and virtue.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 9",
+            "chapterdesc": "Cautions with regard to women, and dangerous conversations.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 10",
+            "chapterdesc": "The virtues and vices of men in power:  the great evil of pride.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 11",
+            "chapterdesc": "Lessons of humility and moderation in all things.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 12",
+            "chapterdesc": "We are to be liberal to the just:  and not to trust the wicked.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 13",
+            "chapterdesc": "Cautions in the choice of company.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 14",
+            "chapterdesc": "The evil of avarice:  works of mercy are recommended, and the love of wisdom.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 15",
+            "chapterdesc": "Wisdom embraceth them that fear God.  God is not the author of sin.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 16",
+            "chapterdesc": "It is better to have none than many wicked children.  Of the justice and mercy of God.  His ways are unsearchable.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 17",
+            "chapterdesc": "The creation and favour of God to man.  An exhortation to turn to God.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 18",
+            "chapterdesc": "God's works are wonderful:  we must serve him, and not our lusts.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 19",
+            "chapterdesc": "Admonition against sundry vices.",
+            "chapternumber": 19
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 20",
+            "chapterdesc": "Rules with regard to correction, discretion, and avoiding lies.",
+            "chapternumber": 20
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 21",
+            "chapterdesc": "Cautions against sin in general, and some sins in particular.",
+            "chapternumber": 21
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 22",
+            "chapterdesc": "Wise sayings on divers subjects.",
+            "chapternumber": 22
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 23",
+            "chapterdesc": "A prayer for grace to flee sin:  cautions against profane swearing and other vices.",
+            "chapternumber": 23
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 24",
+            "chapterdesc": "Wisdom praiseth herself:  her origin, her dwelling, her dignity, and her fruits.",
+            "chapternumber": 24
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 25",
+            "chapterdesc": "Documents of wisdom on several subjects.",
+            "chapternumber": 25
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 26",
+            "chapterdesc": "Of good and bad women.",
+            "chapternumber": 26
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 27",
+            "chapterdesc": "Dangers of sin from several heads:  the fear of God is the best preservative.  He that diggeth a pit, shall fall into it.",
+            "chapternumber": 27
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 28",
+            "chapterdesc": "Lessons against revenge and quarrels.  The evils of the tongue.",
+            "chapternumber": 28
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 29",
+            "chapterdesc": "Of charity in lending money, and justice in repaying.  Of alms, and of being surety.",
+            "chapternumber": 29
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 30",
+            "chapterdesc": "Of correction of children.  Health is better than wealth.  Excessive grief is hurtful.",
+            "chapternumber": 30
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 31",
+            "chapterdesc": "Of the desire of riches, and of moderation in eating and drinking.",
+            "chapternumber": 31
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 32",
+            "chapterdesc": "Lessons for superiors and inferiors.  Advantages of fearing God, and doing nothing without counsel.",
+            "chapternumber": 32
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 33",
+            "chapterdesc": "The fear of God is the best security.  Times and men are in the hands of God.  Take care of thyself as long as thou livest, and look to thy servants.",
+            "chapternumber": 33
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 34",
+            "chapterdesc": "The vanity of dreams.  The advantage of experience, and of the fear of God.",
+            "chapternumber": 34
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 35",
+            "chapterdesc": "What sacrifices are pleasing to God.",
+            "chapternumber": 35
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 36",
+            "chapterdesc": "A prayer for the church of God.  Of a good heart, and a good wife.",
+            "chapternumber": 36
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 37",
+            "chapterdesc": "Of the choice of friends and counsellors.",
+            "chapternumber": 37
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 38",
+            "chapterdesc": "Of physicians and medicines:  what is to be done in sickness, and how we are to mourn for the dead.  Of the employments of labourers and artificers.",
+            "chapternumber": 38
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 39",
+            "chapterdesc": "The exercises of the wise man.  The Lord is to be glorified for his works.",
+            "chapternumber": 39
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 40",
+            "chapterdesc": "The miseries of the life of man are relieved by the grace of God and his fear.",
+            "chapternumber": 40
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 41",
+            "chapterdesc": "Of the remembrance of death:  of an evil and of a good name:  of what things we ought to be ashamed.",
+            "chapternumber": 41
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 42",
+            "chapterdesc": "Of what things we ought not to be ashamed.  Cautions with regard to women.  The works and greatness of God.",
+            "chapternumber": 42
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 43",
+            "chapterdesc": "The works of God are exceedingly glorious and wonderful:  no man is able sufficiently to praise him.",
+            "chapternumber": 43
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 44",
+            "chapterdesc": "The praises of the holy fathers, in particular of Enoch, Noe, Abraham, Isaac, and Jacob.",
+            "chapternumber": 44
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 45",
+            "chapterdesc": "The praises of Moses, of Aaron, and of Phinees.",
+            "chapternumber": 45
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 46",
+            "chapterdesc": "The praise of Josue, of Caleb, and of Samuel.",
+            "chapternumber": 46
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 47",
+            "chapterdesc": "The praise of Nathan, of David, and of Solomon:  Of his fall and punishment.",
+            "chapternumber": 47
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 48",
+            "chapterdesc": "The praise of Elias, of Eliseus, of Ezechias, and of Isaias.",
+            "chapternumber": 48
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 49",
+            "chapterdesc": "The praise of Josias, of Jeremias, Ezechiel, and the twelve prophets. Also of Zorobabel, Jesus the son of Josedech, Nehemias, Enoch, Joseph, Seth, Sem, and Adam.",
+            "chapternumber": 49
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 50",
+            "chapterdesc": "The praises of Simon the high priest.  The conclusion.",
+            "chapternumber": 50
+        },
+        {
+            "chaptername": "Ecclesiasticus Chapter 51",
+            "chapterdesc": "A prayer of praise and thanksgiving.",
+            "chapternumber": 51
+        }
+    ]
+}

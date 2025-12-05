@@ -1,0 +1,144 @@
+{
+    "booknumber": 3,
+    "shortname": "Leviticus",
+    "contentsname": "Book of Leviticus",
+    "bookname": "THE BOOK OF LEVITICUS",
+    "bookdesc": "This Book is called LEVITICUS, because it treats of the Offices, Ministries, Rites and Ceremonies of the Priests and Levites.  The Hebrews call it VAICRA, from the word with which it begins.",
+    "chapters": [
+        {
+            "chaptername": "Leviticus Chapter 1",
+            "chapterdesc": "Of holocausts or burnt offerings.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Leviticus Chapter 2",
+            "chapterdesc": "Of offerings of flour, and firstfruits.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Leviticus Chapter 3",
+            "chapterdesc": "Of peace offerings.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Leviticus Chapter 4",
+            "chapterdesc": "Of offerings for sins of ignorance.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Leviticus Chapter 5",
+            "chapterdesc": "Of other sacrifices for sins.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Leviticus Chapter 6",
+            "chapterdesc": "Oblation for sins of injustice:  ordinances concerning the holocausts and the perpetual fire:  the sacrifices of the priests, and the sin offerings.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "Leviticus Chapter 7",
+            "chapterdesc": "Of sacrifices for trespasses and thanks offerings.  No fat nor blood is to be eaten.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "Leviticus Chapter 8",
+            "chapterdesc": "Moses consecrateth Aaron and his sons.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "Leviticus Chapter 9",
+            "chapterdesc": "Aaron offereth sacrifice for himself and the people.  Fire cometh from the Lord upon the altar.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "Leviticus Chapter 10",
+            "chapterdesc": "Nadab and Abiu for offering strange fire, are burnt by fire.  Priests are forbidden to drink wine, when they enter into the tabernacle.  The law of eating the holy things.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "Leviticus Chapter 11",
+            "chapterdesc": "The distinction of clean and unclean animals.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "Leviticus Chapter 12",
+            "chapterdesc": "The purification of women after childbirth.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "Leviticus Chapter 13",
+            "chapterdesc": "The law concerning leprosy in men, and in garments.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "Leviticus Chapter 14",
+            "chapterdesc": "The rites of sacrifices in cleansing the leprosy.  Leprosy in houses.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "Leviticus Chapter 15",
+            "chapterdesc": "Other legal uncleannesses.",
+            "chapternumber": 15
+        },
+        {
+            "chaptername": "Leviticus Chapter 16",
+            "chapterdesc": "When and how the high priest must enter into the sanctuary.  The feast of expiation.",
+            "chapternumber": 16
+        },
+        {
+            "chaptername": "Leviticus Chapter 17",
+            "chapterdesc": "No sacrifices to be offered but at the door of the tabernacle:  a prohibition of blood.",
+            "chapternumber": 17
+        },
+        {
+            "chaptername": "Leviticus Chapter 18",
+            "chapterdesc": "Marriage is prohibited in certain degrees of kindred:  Anda all unnatural lusts.",
+            "chapternumber": 18
+        },
+        {
+            "chaptername": "Leviticus Chapter 19",
+            "chapterdesc": "Divers ordinances, partly moral, partly ceremonial or judicial.",
+            "chapternumber": 19
+        },
+        {
+            "chaptername": "Leviticus Chapter 20",
+            "chapterdesc": "Divers crimes to be punished with death.",
+            "chapternumber": 20
+        },
+        {
+            "chaptername": "Leviticus Chapter 21",
+            "chapterdesc": "Ordinances relating to the priests.",
+            "chapternumber": 21
+        },
+        {
+            "chaptername": "Leviticus Chapter 22",
+            "chapterdesc": "Who may eat the holy things:  and what things may be offered.",
+            "chapternumber": 22
+        },
+        {
+            "chaptername": "Leviticus Chapter 23",
+            "chapterdesc": "Holy days to be kept.",
+            "chapternumber": 23
+        },
+        {
+            "chaptername": "Leviticus Chapter 24",
+            "chapterdesc": "The oil for the lamps.  The loaves of proposition.  The punishment of blasphemy.",
+            "chapternumber": 24
+        },
+        {
+            "chaptername": "Leviticus Chapter 25",
+            "chapterdesc": "The law of the seventh and of the fiftieth year of jubilee.",
+            "chapternumber": 25
+        },
+        {
+            "chaptername": "Leviticus Chapter 26",
+            "chapterdesc": "God's promises to them that keep his commandments.  And the many punishments with which he threatens transgressors.",
+            "chapternumber": 26
+        },
+        {
+            "chaptername": "Leviticus Chapter 27",
+            "chapterdesc": "Of vows and tithes.",
+            "chapternumber": 27
+        }
+    ]
+}

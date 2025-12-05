@@ -1,0 +1,84 @@
+{
+    "booknumber": 46,
+    "shortname": "2 Machabees",
+    "contentsname": "Second Book of Machabees",
+    "bookname": "THE SECOND BOOK OF MACHABEES",
+    "bookdesc": "This second book of MACHABEES is not a continuation of the history contained in the first:  nor does is come down so low as the first does: but relates many of the same facts more at large, and adds other remarkable particulars, omitted in the first book, relating to the state of the Jews, as well before as under the persecution of ANTIOCHUS.  The author, who is not the same with that of the first book, has given (as we learn from chap. 2.20, etc.) a short abstract of what JASON of Cyrene had written in the five volumes, concerning JUDAS and his brethren.  He wrote in Greek, and begins with two letters, sent by the Jews of Jerusalem to their brethren in Egypt.",
+    "chapters": [
+        {
+            "chaptername": "2 Machabees Chapter 1",
+            "chapterdesc": "Letters of the Jews of Jerusalem to them that were in Egypt.  They give thanks for their delivery from Antiochus:  and exhort their brethren to keep the feast of the dedication of the altar, and of the miraculous fire.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "2 Machabees Chapter 2",
+            "chapterdesc": "A continuation of the second letter.  Of Jeremias' hiding the ark at the time of the captivity.  The author's preface.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "2 Machabees Chapter 3",
+            "chapterdesc": "Heliodorus is sent by king Seleucus to take away the treasures deposited in the temple.  He is struck by God, and healed by the prayers of the high priest.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "2 Machabees Chapter 4",
+            "chapterdesc": "Onias has recourse to the king.  The ambition and wickedness of Jason and Menelaus.  Onias is treacherously murdered.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "2 Machabees Chapter 5",
+            "chapterdesc": "Wonderful signs are seen in the air.  Jason's wickedness and end. Antiochus takes Jerusalem, and plunders the temple.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "2 Machabees Chapter 6",
+            "chapterdesc": "Antiochus commands the law to be abolished, sets up an idol in the temple, and persecutes the faithful.  The martyrdom of Eleazar.",
+            "chapternumber": 6
+        },
+        {
+            "chaptername": "2 Machabees Chapter 7",
+            "chapterdesc": "The glorious martyrdom of the seven brethren and their mother.",
+            "chapternumber": 7
+        },
+        {
+            "chaptername": "2 Machabees Chapter 8",
+            "chapterdesc": "Judas Machabeus gathering an army gains divers victories.",
+            "chapternumber": 8
+        },
+        {
+            "chaptername": "2 Machabees Chapter 9",
+            "chapterdesc": "The wretched end, and fruitless repentance of king Antiochus.",
+            "chapternumber": 9
+        },
+        {
+            "chaptername": "2 Machabees Chapter 10",
+            "chapterdesc": "The purification of the temple and city.  Other exploits of Judas.  His victory over Timotheus.",
+            "chapternumber": 10
+        },
+        {
+            "chaptername": "2 Machabees Chapter 11",
+            "chapterdesc": "Lysias is overthrown by Judas.  He sues for peace.",
+            "chapternumber": 11
+        },
+        {
+            "chaptername": "2 Machabees Chapter 12",
+            "chapterdesc": "The Jews are still molested by their neighbours.  Judas gains divers victories over them.  He orders sacrifice and prayers for the dead.",
+            "chapternumber": 12
+        },
+        {
+            "chaptername": "2 Machabees Chapter 13",
+            "chapterdesc": "Antiochus and Lysias again invade Judea.  Menelaus is put to death.  The king's great army is worsted twice.  The peace is renewed.",
+            "chapternumber": 13
+        },
+        {
+            "chaptername": "2 Machabees Chapter 14",
+            "chapterdesc": "Demetrius challenges the kingdom.  Alcimus applies to him to be made high priest:  Nicanor is sent into Judea:  his dealings with Judas:  his threats.  The history of Razias.",
+            "chapternumber": 14
+        },
+        {
+            "chaptername": "2 Machabees Chapter 15",
+            "chapterdesc": "Judas encouraged by a vision gains a glorious victory over Nicanor.  The conclusion.",
+            "chapternumber": 15
+        }
+    ]
+}

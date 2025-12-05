@@ -1,0 +1,39 @@
+{
+    "booknumber": 55,
+    "shortname": "Galatians",
+    "contentsname": "Epistle of St. Paul to the Galatians",
+    "bookname": "THE EPISTLE OF ST. PAUL TO THE GALATIANS",
+    "bookdesc": "The Galatians, soon after St. Paul had preached the Gospel to them, were seduced by some false teachers, who had been Jews and who were for obliging all Christians, even those who had been Gentiles, to observe circumcision and the other ceremonies of the Mosaical law.  In this Epistle, he refutes the pernicious doctrine of those teachers and also their calumny against his mission and apostleship.  The subject matter of this Epistle is much the same as that to the Romans.  It was written at Ephesus, about twenty-three years after our Lord's Ascension.",
+    "chapters": [
+        {
+            "chaptername": "Galatians Chapter 1",
+            "chapterdesc": "He blames the Galatians for suffering themselves to be imposed upon by new teachers.  The apostle's calling.",
+            "chapternumber": 1
+        },
+        {
+            "chaptername": "Galatians Chapter 2",
+            "chapterdesc": "The apostle's preaching was approved of by the other apostles.  The Gentiles were not to be constrained to the observance of the law.",
+            "chapternumber": 2
+        },
+        {
+            "chaptername": "Galatians Chapter 3",
+            "chapterdesc": "The Spirit, and the blessing promised to Abraham cometh not by the law, but by faith.",
+            "chapternumber": 3
+        },
+        {
+            "chaptername": "Galatians Chapter 4",
+            "chapterdesc": "Christ has freed us from the servitude of the law.  We are the freeborn sons of Abraham.",
+            "chapternumber": 4
+        },
+        {
+            "chaptername": "Galatians Chapter 5",
+            "chapterdesc": "He exhorts them to stand to their Christian liberty.  Of the fruits of the flesh and of the spirit.",
+            "chapternumber": 5
+        },
+        {
+            "chaptername": "Galatians Chapter 6",
+            "chapterdesc": "He exhorts to charity, humility and all virtue.  He glories in nothing but in the cross of Christ.",
+            "chapternumber": 6
+        }
+    ]
+}
