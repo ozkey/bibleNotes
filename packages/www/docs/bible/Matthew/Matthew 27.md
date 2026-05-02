@@ -155,6 +155,12 @@ Note 1: Corbona...A place in the temple where the people put in their gifts or o
 
       <BibleText verse={46}>And about the ninth hour, Jesus cried with a loud voice, saying: Eli, Eli, lamma sabacthani? That is, My God, My God, why hast thou forsaken me?</BibleText>
 
+import MyPartial from '../../notes/_partials/Eli, Eli, lama sabachthani.md';
+
+<MyPartial />
+
+
+
 
       <BibleText verse={47}>And some that stood there and heard said: This man calleth Elias.</BibleText>
 
